@@ -30,9 +30,10 @@ On the first day of the rest of your life you should google about the demoscene 
 On the second day of the rest of your life you should figure out what you want to do on the demoscene.
 
 A demo is usually a group effort. Sceners are typically divided into 3 roles:
-a) Coder - programming effects and tools that will enable you to get your demo done before the deadline!
-b) Graphician - artwork, modelling
-c) Musician - composer of the soundtrack
+
+1) Graphician - artwork, modelling
+2) Musician - composer of the soundtrack
+3) Coder - programming effects and tools that will enable you to get your demo done before the deadline!
 
 You can always just do everything yourself, but it takes some hefty ammount of effort to be proficient in each of the areas, so it's common that people specialize in one of them while retaining some additional capacity on the others.
 
