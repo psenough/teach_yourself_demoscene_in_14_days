@@ -29,7 +29,7 @@ On the first day of the rest of your life you should google about the demoscene 
 
 On the second day of the rest of your life you should figure out what you want to do on the demoscene.
 
-A demo is usually a group effort. Sceners are typically divided into 3 roles:
+A demo is usually a group effort. Sceners are typically divided into 3 types of roles:
 
 1. Graphician - artwork, 3d modelling, animation
 2. Musician - composing and producing the audio soundtrack
@@ -40,6 +40,8 @@ You can always just do everything yourself, but it takes some hefty ammount of e
 So what do you want to do when you grow up? Draw imaginary worlds? Annoy your dog with high pitch sounds? Spend your whole night debugging spaghetti code?
 
 Some people know immediately what they want to be in charge of, others like to experiment a little of each as it fits their mood.
+
+There is an additional role on the demoscene, which is of the organizer, although not directly involved in the production of demos, they are often critical to a successful sprint and keeping the spirit alive. Their tasks can range from finding complementary group members to join the project, managing people and deadlines, organizing events, promoting releases, etc.
 
 You should never be afraid to try out or experiment in an area you don't dominate, even if you don't stick with it you'll learn invaluable information on how it works that will undoubtedly help you in other areas of the future. Embrace your curiosity, don't be afraid to fail. People learn with mistakes and everybody has to start somewhere. So follow your heart, ignore any prejudices and explore what you want to explore.
 
@@ -55,11 +57,30 @@ By the end of day 2 you should have an idea of what you want to explore more ser
 
 ## Day 6 - Tools and resources
 
-## Day 7 - Concept
+## Day 7 - Experiment
 
-## Day 8 - Experiment
+## Day 8 - Achievable Goals
 
-## Day 9 - Achievable Goals
+There are many ways of making a demo. The only right way is your own way. The way that is interesting and fun.
+
+Some people try to replicate some effects after seeing something interesting in another demo, movie, advert or nature. Building up a bunch of different effects and then trying to find a soundtrack to glue them all together into something nice.
+
+Others prefer to nail down a concept and only then get to work on it's different components. Some sceners only feel the drive to create something when someone requests them to do something or throws them a challenge.
+
+Some coders only do engines, frameworks and tools. Some graphicians only fool around with engines until something seems interesting. 
+
+All these approaches are valid. Demoscene is a hobby, so don't treat it as work, do whatever you like whenever you feel like doing it.
+
+Some protips to keep in mind:
+
+1. There is a finite number of productive hours per day, there is a finite number of days until the deadline, aim for achievable goals, build on top of them after you've reached them.
+2. If you have no ideas, try to do random things, eventually you will come up with something more concrete. Don't let a lack of concept stop you.
+3. Do stuff on the project for atleast 5 minutes each day, even if it's just tweaking some colors, it helps to keep the project in the back of your mind.
+3. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project aswell.
+
+If you keep these things in mind by the end of day 8 you should have an achievable goal in mind or atleast some ideas for effects to try out.
+
+## Day 9 - Proof of Concept
 
 ## Day 10 - Deadlines are important
 
