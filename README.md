@@ -37,7 +37,7 @@ A demo is usually a group effort. Sceners are typically divided into 3 roles:
 
 You can always just do everything yourself, but it takes some hefty ammount of effort to be proficient in each of the areas, so it's common that people specialize in one of them while retaining some additional capacity on the others.
 
-So what do you want to do when you grow up? Spend your whole night debugging spaghetti code? Draw imaginary worlds? Annoy your dog with out of pitch sounds?
+So what do you want to do when you grow up? Draw imaginary worlds? Annoy your dog with high pitch sounds? Spend your whole night debugging spaghetti code?
 
 Some people know immediately what they want to be in charge of, others like to experiment a little of each as it fits their mood.
 
