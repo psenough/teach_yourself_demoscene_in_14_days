@@ -55,6 +55,8 @@ By the end of day 2 you should have an idea of what you want to explore more ser
 
 ## Day 5 - Basics of code
 
+http://programming-motherfucker.com/
+
 ## Day 6 - Tools and resources
 
 ## Day 7 - Experiment
