@@ -67,6 +67,20 @@ By the end of day 3 you should know what tools to use if you want to do graphics
 
 ## Day 4 - Basics of audio
 
+There are many tools to produce audio freely available. Ranging from sample editors to complete DAW (Digital Audio Workstation) solutions.
+
+Modern PC demos typically play a pre-recorded final mix of the audio (an mp3 of the track), but the roots of the demoscene involve sample generation and the so called tracker formats. Most demos for oldschool platforms still feature live mixing playback of a tracked track.
+
+The [tracker format](https://en.wikipedia.org/wiki/Module_file) can be divided into 3 main concepts: samples & instruments, patterns and sequencing order. You can typically load or configure the parameters of samples that can be played. Certain trackers allow you to configure samples into instruments by defining behaviors on how the sample will be played when triggered under different pitches. The samples or instruments are then sequenced in patterns that will be played back under the stipulated tempo. And you can set the order of how the patterns will be played under the song sequence. These simple rules are the basis for most trackers that exist out there, each of them with their unique counter-intuitive menus.
+
+Certain platforms have sample and instrument restrictions like only generating sinus, saw or square wave forms. Or only allowing certain types of filters. The limitations of each soundchip popularized on different 8bit and 16bit machines gives certain platforms it's distinctive sound.
+
+To create sound for limited size intros demomakers have developed their own synthetizers, forcing the musicians to create instruments procedurally. Storing the function steps required to recreate the instruments proceduraly takes less space then storing the entire sample. Popular demoscene synths include [4klang](http://4klang.untergrund.net/) and [clinkster](http://www.pouet.net/prod.php?which=61592).
+
+Ofcourse if you are doing sound for demos you are not limited by size, so you can do your soundtrack in whatever application your prefer (fruity loops, ableton live, cubase, reason, logic pro, etc).
+
+By the end of day 4 you should know what tools to use if you want to do sound for a demo or a music compo entry. Try a few of them out, check some tutorials, learn the shortcuts and master the tool you find most interesting.
+
 ## Day 5 - Basics of code
 
 http://programming-motherfucker.com/
