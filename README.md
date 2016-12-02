@@ -83,7 +83,23 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 ## Day 5 - Basics of code
 
-http://programming-motherfucker.com/
+Learning how to program is relatively easy, there are tons of books and free courses on the subject.
+
+[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorythms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or confortable with.
+
+To avoid initial frustration you should probably start with something that let's you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
+
+There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels more natural to you, as long as the entry gets done in time to get shown on the big screen you're doing it right.
+
+Some programmers get a bit caught up in the right way to code, reading books, following the best practices, debating them, getting caught up in endless refactoring cycles and never finishing the actual demo. If that's you i suggest you read http://programming-motherfucker.com/ and focus on getting the demo done.
+
+Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to still program a demo. Some coders prefer working on engines and tools for other demosceners to use instead of coding an actual demo themselves. Others hate dealing with those things and just like to put the final product together. It's useful to dabble on the different fields but at the end of the day you should focus with the area you are more interested in or comfortable with.
+
+If you're focused on doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k development, you can find resources at [in4k](https://in4k.github.io/).
+
+Try to program a new effect each day and you'll eventually start to get the hang of it and figure out areas that you should read up on to improve your skillset.
+
+By the end of day 5 you should know what it takes to take on the programming role of demomaking.
 
 ## Day 6 - Tools and resources
 
