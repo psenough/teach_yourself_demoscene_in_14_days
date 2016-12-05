@@ -1,8 +1,8 @@
-# teach_yourself_demoscene_in_14_days
-book idea from http://www.pouet.net/topic.php?which=10882&amp;page=1
+# Teach Yourself Demoscene in 14 Days
 
+A guidebook idea for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
-## Day 1 - What's a demoscene
+## Day 1 - What's a Demoscene
 
 The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture.
 
@@ -29,7 +29,7 @@ Given all this knowledge, your mission, should you should to accept it, is to, i
 
 On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos!
 
-## Day 2 - Find your vocation
+## Day 2 - Find your Vocation
 
 On the second day of the rest of your life you should figure out what you want to do on the demoscene.
 
@@ -51,7 +51,7 @@ It won't be easy to master a role. All of them are life-long commitments that ta
 
 By the end of day 2 you should have an idea of what you want to explore more seriously. If you have doubts what each area actually entails then i strongly suggest you search for some beginners tutorials on the different areas to help you decide. We will cover the basics of each role during the next days but the more prior information you have the better prepared you will be to tackle the challenges ahead!
 
-## Day 3 - Basics of graphics
+## Day 3 - Basics of Graphics
 
 The role of doing graphics for a demo is typically supported by a so called graphician. To be a successful graphician in the demoscene you should hopefuly enjoy drawing and being randomly creative. There are many tools you can use to do graphics:
 
@@ -65,7 +65,7 @@ Most graphicians are proficient with photoshop and illustrator, or their free / 
 
 By the end of day 3 you should know what tools to use if you want to do graphics for a demo or a graphics compo entry. Try a few of them out, check some tutorials, learn the shortcuts and master the tool you find most interesting.
 
-## Day 4 - Basics of audio
+## Day 4 - Basics of Audio
 
 There are many tools to produce audio freely available. Ranging from sample editors to complete DAW (Digital Audio Workstation) solutions.
 
@@ -81,7 +81,7 @@ Ofcourse if you are doing sound for demos you are not limited by size, so you ca
 
 By the end of day 4 you should know what tools to use if you want to do sound for a demo or a music compo entry. Try a few of them out, check some tutorials, learn the shortcuts and master the tool you find most interesting.
 
-## Day 5 - Basics of code
+## Day 5 - Basics of Code
 
 Learning how to program is relatively easy, there are tons of books and free courses on the subject.
 
@@ -101,7 +101,7 @@ Try to program a new effect each day and you'll eventually start to get the hang
 
 By the end of day 5 you should know what it takes to take on the programming role of demomaking.
 
-## Day 6 - Tools and resources
+## Day 6 - Tools and Resources
 
 There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are comercial (like Maya, 3DS Max, Photoshop), others are open source or freeware, and then there are the so called demotools. Tools made by demosceners especially to help create demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others open source their tools and libraries in order to have more users and raise the bar. The end goal is always to make more good demos.
 
@@ -142,7 +142,7 @@ If you keep these things in mind by the end of day 8 you should have an achievab
 
 ## Day 9 - Proof of Concept
 
-## Day 10 - Deadlines are important
+## Day 10 - Deadlines are Important
 
 ## Day 11 - Get Help
 
