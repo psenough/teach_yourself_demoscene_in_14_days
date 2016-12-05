@@ -91,7 +91,7 @@ To avoid initial frustration you should probably start with something that let's
 
 There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels more natural to you, as long as the entry gets done in time to get shown on the big screen you're doing it right.
 
-Some programmers get a bit caught up in the right way to code, reading books, following the best practices, debating them, getting caught up in endless refactoring cycles and never finishing the actual demo. If that's you i suggest you read http://programming-motherfucker.com/ and focus on getting the demo done.
+Some programmers get a bit caught up in the right way to code, reading books, following the best practices, debating them, getting caught up in endless refactoring cycles and never finishing the actual demo. If that's you i suggest you read [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and focus on getting the demo done.
 
 Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to still program a demo. Some coders prefer working on engines and tools for other demosceners to use instead of coding an actual demo themselves. Others hate dealing with those things and just like to put the final product together. It's useful to dabble on the different fields but at the end of the day you should focus with the area you are more interested in or comfortable with.
 
@@ -102,6 +102,20 @@ Try to program a new effect each day and you'll eventually start to get the hang
 By the end of day 5 you should know what it takes to take on the programming role of demomaking.
 
 ## Day 6 - Tools and resources
+
+There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are comercial (like Maya, 3DS Max, Photoshop), others are open source or freeware, and then there are the so called demotools. Tools made by demosceners especially to help create demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others open source their tools and libraries in order to have more users and raise the bar. The end goal is always to make more good demos.
+
+I would strongly advise you to take a quick look at the different demotools available and see which ones you can use to avoid reinventing the wheel and achieve cool results sooner. You can find a list of the most famous demotools on [pouet](http://www.pouet.net/prodlist.php?type%5B0%5D=demotool&page=1&order=thumbup), they range from texture generators, music trackers, synths or graphics tools or format converters to full featured demomaking engines, executable packers and linkers.
+
+The best way to know what tool might interest you is to either check them all out one at a time, or visit a demoparty on location and just randomly ask another fellow scener. Your tools largely depend on your demoscene role of choice and target platform so i hope you have a hint of a plan by now.
+
+Similarly important to knowing the tools of the trade available to you are what resources are out there, ranging from free tracks, samples, free sprites, free animated models, usable tools, editors and engines, tutorials, irc channels where to get motivation and support, etc. It's usually a matter of doing a few google searches or asking fellow sceners about their demomaking habits.
+
+Demosceners typically have very strong opinions on what is the cool and what is lame. Demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's easy to get negative commentary, you should realize that an opinion is just an opinion, you don't have to please everyone. Demoscene is a hobby, so you should above all please yourself first. If you put effort and dedication into your entry i'm sure people will acknowledge your effort regardless of if they liked it or disagree with the "shortcuts" you took in their eyes to get the demo done. My recommendation is to be honest with your sources, entries typically have a readme.txt file in the package where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed shaders or a commercial engine. They will evaluate it accordingly.
+
+That being said, the more "original" material and effort you put into the entry the more impact it will have on the viewer. Generally speaking: reuse with proper creditting is generally considered fair game, claiming ownership of someone else's work is not.
+
+By the end of day 6 you should have a good idea of what tools and resources are out there to assist you on your plan for demoscene world domination.
 
 ## Day 7 - Experiment
 
