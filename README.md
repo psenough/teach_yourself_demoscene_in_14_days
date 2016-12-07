@@ -83,7 +83,7 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 ## Day 5 - Basics of Code
 
-Learning how to program is relatively easy, there are tons of books and free courses on the subject.
+Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
 
 [Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorythms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or confortable with.
 
