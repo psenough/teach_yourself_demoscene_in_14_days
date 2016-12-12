@@ -1,16 +1,16 @@
-# Teach Yourself the demoscene in 14 Days
+# Teach Yourself to Be Part of the Demoscene in 14 Days
 
 A guidebook idea for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
-## Day 1 - What's a Demoscene?
+## Day 1 - Demoscene?
 
-The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture.
+The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture. The term demoscene comes from the word demo, short for demonstration. Which in the context of the demoscene means a realtime audiovisual application demonstrating the capabilities of the machine.
 
-We call demosceners the folks with too much free time that like to use their computers and make digital art to be released on this so called demoscene.
+We call demosceners the folks with too much free time that like to use their computer skills to create releases under the demoscene.
 
 Demosceners often use nicknames to identify themselves and hang around in so called demogroups. Some demosceners are active members in multiple demogroups, with or without using the same nickname.
 
-Demoscene has no commercial purpose. The releases are meant to show the limits of the machines and the technical skill of their makers. There are no rules to what kind of release you can make. Some are made as technical benchmarks, others as conceptual art, and others just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
+Demoscene has no commercial purpose. The releases are meant to show the limits of the machines and the technical skills of the makers. There are no rules to what kind of release you can make. Some are made as technical benchmarks, others as conceptual art, and others just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
 
 Demoscene releases commonly are of these categories:
 * Track, an audio piece (can be in executable format, tracker module format or pre-rendered wav/mp3)
@@ -18,16 +18,16 @@ Demoscene releases commonly are of these categories:
 * Demo, an audiovisual real-time executable demonstration of a certain machine
 * Intro, typically a demo with file size limitation all packed into a single executable file that includes all the assets (popular sizes: 256bytes, 512bytes, 1kb, 4kb, 8kb, 64kb)
 * Animation, rendered graphics videos
-* demo pack, a collection of demos in a single disk
-* music disk, a collection of demoscene tracks with an executable player
-* disk mag, a collection of texts about the demoscene with a graphics interface
+* Demopack, a collection of demos in a single disk
+* Musicdisk, a collection of demoscene tracks with an executable player
+* Diskmag, a collection of texts about the demoscene with a graphics interface
 * Wild entry, everything else (including live performance, videos of demos on weird platforms, etc)
 
-Releases typically occur at [demoparties](http://www.demoparty.net/). Demoparties come in many flavors but they are usually 2 or 3 day events that bring together demosceners and ask them to participate in a series of competitions. The entries are shown on the big screen, people vote what they liked best, and the winners take home a symbolic prize.
+Releases typically occur at [demoparties](http://www.demoparty.net/). Demoparties come in many flavors but they are usually 2 or 3 day events that bring together demosceners and ask them to participate in a series of competitions (also called compos). The entries are shown on the big screen, people vote what they liked best, and the winners take home a symbolic prize.
 
 Given all this knowledge, your mission, should you choose to accept it, is to, in 14 days, make your first demoscene entry, meet some fellow demosceners, participate in a compo at a demoparty and eventually "bring a big shock to Japanese brain" as some sceners say.
 
-On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos!
+On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice [url=https://www.youtube.com/user/Annikras]Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel[/url], which might be useful, although demos are always best experienced running live on their target platform.
 
 ## Day 2 - Find your Vocation
 
@@ -75,7 +75,7 @@ The [tracker format](https://en.wikipedia.org/wiki/Module_file) can be divided i
 
 Certain platforms have sample and instrument restrictions like only generating sinus, saw or square wave forms. Or only allowing certain types of filters. The limitations of each soundchip popularized on different 8bit and 16bit machines gives certain platforms it's distinctive sound.
 
-To create sound for limited size intros demomakers have developed their own synthesizers, forcing the musicians to create instruments procedurally. Storing the function steps required to recreate the instruments procedurally takes less space then storing the entire sample. Popular demoscene synths include [4klang](http://4klang.untergrund.net/) and [clinkster](http://www.pouet.net/prod.php?which=61592).
+To create sound for limited size intros demomakers have developed their own synthesizers, forcing the musicians to create instruments procedurally. Storing the function steps required to recreate the instruments procedurally takes less space than storing the entire sample. Popular demoscene synths include [4klang](http://4klang.untergrund.net/) and [clinkster](http://www.pouet.net/prod.php?which=61592).
 
 Of course if you are doing sound for demos you are not limited by size, so you can do your soundtrack in whatever application your prefer (Fruity loops, Ableton live, Cubase, reason, logic pro, etc.).
 
@@ -85,11 +85,11 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
 
-[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
+[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorythms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
 
-To avoid initial frustration you should probably start with something that lets you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
+To avoid initial frustration you should probably start with something that lets you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue, there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
 
-There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels more natural to you, as long as the entry gets done in time to get shown on the big screen you're doing it right.
+There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
 
 Some programmers get a bit caught up in the right way to code, reading books, following the best practices, debating them, getting caught up in endless refactoring cycles and never finishing the actual demo. If that's you i suggest you read [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and focus on getting the demo done.
 
@@ -119,15 +119,32 @@ By the end of day 6 you should have a good idea of what tools and resources are 
 
 ## Day 7 - Experiment
 
+Whether you're a musician, graphician or coder: don't be afraid to experiment.
+
+Experiment with tools, experiment with ideas.
+
+Repurpose, remix, discuss with other sceners.
+
+Don't be afraid to fail, it's normal to fail, that's how you find interesting things, that's how you learn how to do things properly. Go forth and fail, eventually you will succeed!
+
+Don't expect your first track to be great. Don't expect your first pixel graphics to look good. Don't expect your first demo to be any good. The first demos from 90% of sceners are a total load of crap!
+
+You should also be aware that it's common to get creative blocks or lose your motivation to do things from time to time. Just remember that demoscene is a hobby, you're free to do whatever you want at whatever pace you please. Some sceners take decades working on their demoscene masterpiece on and off!
+
+As long as you keep yourself motivated to try new things, eventually you will manage to release something you are truly proud of.
+
+At the end of day 7 you should now have a good grasp on the importance of not being afraid to just try things and experiment.
+
 ## Day 8 - Achievable Goals
 
 There are many ways of making a demo. The only right way is your own way. The way that is interesting and fun.
 
-Some people try to replicate some effects after seeing something interesting in another demo, movie, advert or nature. Building up a bunch of different effects and then trying to find a soundtrack to glue them all together into something nice.
+That being said you should always aim for achievable goals. If you are not reasonable with your capabilities you'll soon find yourself demotivated to carry on improving your release. Always better to start small and build on top of what you already have working.
 
-Others prefer to nail down a concept and only then get to work on it's different components. Some sceners only feel the drive to create something when someone requests them to do something or throws them a challenge.
-
-Some coders only do engines, frameworks and tools. Some graphicians only fool around with engines until something seems interesting. 
+If you have no idea where to start here are a few pointers:
+* Some people try to replicate some effects after seeing something interesting in other demos, movies, adverts or nature. Building up a set of different effects and then trying to find a soundtrack that can glue them together into something nice.
+* Others prefer to nail down a concept and only then get to work on it's different components. Some sceners only feel the drive to create something when someone requests them to do something or throws them a challenge.
+* Some coders only do engines, frameworks and tools. Some graphicians only fool around with engines until something seems interesting. 
 
 All these approaches are valid. Demoscene is a hobby, so don't treat it as work, do whatever you like whenever you feel like doing it.
 
@@ -136,9 +153,9 @@ Some pro tips to keep in mind:
 1. There is a finite number of productive hours per day, there is a finite number of days until the deadline, aim for achievable goals, and build on top of them after you've reached them.
 2. If you have no ideas, try to do random things, eventually you will come up with something more concrete. Don't let a lack of concept stop you.
 3. Do stuff on the project for at least 5 minutes each day, even if it's just tweaking some colors, it helps to keep the project in the back of your mind.
-3. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project as well.
+4. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project as well.
 
-If you keep these things in mind by the end of day 8 you should have an achievable goal in mind or at least some ideas for effects to try out.
+If you keep all these things in mind by the end of day 8 you should have plotted an achievable goal.
 
 ## Day 9 - Proof of Concept
 
@@ -151,3 +168,8 @@ If you keep these things in mind by the end of day 8 you should have an achievab
 ## Day 13 - The Real Party is Outside
 
 ## Day 14 - Pouet != Scene && Scene != Pouet
+
+
+## Aknowledgements
+
+Greetings to Danny and hardy for proof-reading and comments.
