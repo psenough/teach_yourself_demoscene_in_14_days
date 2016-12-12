@@ -1,8 +1,8 @@
-# Teach Yourself Demoscene in 14 Days
+# Teach Yourself the demoscene in 14 Days
 
 A guidebook idea for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
-## Day 1 - What's a Demoscene
+## Day 1 - What's a Demoscene?
 
 The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture.
 
@@ -10,22 +10,22 @@ We call demosceners the folks with too much free time that like to use their com
 
 Demosceners often use nicknames to identify themselves and hang around in so called demogroups. Some demosceners are active members in multiple demogroups, with or without using the same nickname.
 
-Demoscene has no comercial purpose. The releases are meant to show the limits of the machines and the technical skill of their makers. There are no rules to what kind of release you can make. Some are made as technical benchmarks, others as conceptual art, others just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
+Demoscene has no commercial purpose. The releases are meant to show the limits of the machines and the technical skill of their makers. There are no rules to what kind of release you can make. Some are made as technical benchmarks, others as conceptual art, and others just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
 
 Demoscene releases commonly are of these categories:
-* track, an audio piece (can be in executable format, tracker module format or pre-rendered wav/mp3)
-* graphics entry, drawn images with fixed resolutions and/or palletes with restricted number of colors
-* demo, an audiovisual realtime executable demonstration of a certain machine
-* intro, typically a demo with filesize limitation all packed into a single executable file that includes all the assets (popular sizes: 256bytes, 512bytes, 1kb, 4kb, 8kb, 64kb)
-* animation, rendered graphics videos
-* demopack, a collection of demos in a single disk
-* musicdisk, a collection of demoscene tracks with an executable player
-* diskmag, a collection of texts about the demoscene with a graphics interface
-* wild entry, everything else (including live performance, videos of demos on weird platforms, etc)
+* Track, an audio piece (can be in executable format, tracker module format or pre-rendered wav/mp3)
+* Graphics entry, drawn images with fixed resolutions and/or palettes with restricted number of colors
+* Demo, an audiovisual real-time executable demonstration of a certain machine
+* Intro, typically a demo with file size limitation all packed into a single executable file that includes all the assets (popular sizes: 256bytes, 512bytes, 1kb, 4kb, 8kb, 64kb)
+* Animation, rendered graphics videos
+* demo pack, a collection of demos in a single disk
+* music disk, a collection of demoscene tracks with an executable player
+* disk mag, a collection of texts about the demoscene with a graphics interface
+* Wild entry, everything else (including live performance, videos of demos on weird platforms, etc)
 
 Releases typically occur at [demoparties](http://www.demoparty.net/). Demoparties come in many flavors but they are usually 2 or 3 day events that bring together demosceners and ask them to participate in a series of competitions. The entries are shown on the big screen, people vote what they liked best, and the winners take home a symbolic prize.
 
-Given all this knowledge, your mission, should you should to accept it, is to, in 14 days, make your first demoscene entry, meet some fellow demosceners, participate in a compo at a demoparty and eventually "bring a big shock to japanese brain" as some sceners say.
+Given all this knowledge, your mission, should you choose to accept it, is to, in 14 days, make your first demoscene entry, meet some fellow demosceners, participate in a compo at a demoparty and eventually "bring a big shock to Japanese brain" as some sceners say.
 
 On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos!
 
@@ -53,15 +53,15 @@ By the end of day 2 you should have an idea of what you want to explore more ser
 
 ## Day 3 - Basics of Graphics
 
-The role of doing graphics for a demo is typically supported by a so called graphician. To be a successful graphician in the demoscene you should hopefuly enjoy drawing and being randomly creative. There are many tools you can use to do graphics:
+The role of doing graphics for a demo is typically supported by a so called graphician. To be a successful graphician in the demoscene you should hopefully enjoy drawing and being randomly creative. There are many tools you can use to do graphics:
 
 Pixel art graphics typically focus on a limited palette of colors and image size. The restrictions come from the oldschool machines that had such limitations on hardware. These images are typically called sprites. 2D animations are created by cycling between sprite frames in the right order. You can [google for pixel art graphics tools](http://lmgtfy.com/?q=pixel+art+graphics+tools) and find a whole bunch of modern editors for pixel art. Real sceners will tell you about [Grafx2](http://www.pouet.net/prod.php?which=51865) or the more recent [Multipaint](http://www.pouet.net/prod.php?which=66976).
 
-If pixeling makes your stomach all queasy that doesn't mean your career as a graphician will be over before it even started. You can still take the role of 3D modeller (using 3DS Max, Maya, Lightwave, ZBrush, etc) and 3D animator.
+If pixeling makes your stomach all queasy that doesn't mean your career as a graphician will be over before it even started. You can still take the role of 3D modeler (using 3DS Max, Maya, Lightwave, ZBrush, etc) and 3D animator.
 
 The graphician may also be responsible by the overall design of the demo. Including concept, scene composition, transitions, etc.
 
-Most graphicians are proficient with photoshop and illustrator, or their free / open source clones.
+Most graphicians are proficient with Photoshop and illustrator, or their free / open source clones.
 
 By the end of day 3 you should know what tools to use if you want to do graphics for a demo or a graphics compo entry. Try a few of them out, check some tutorials, learn the shortcuts and master the tool you find most interesting.
 
@@ -75,9 +75,9 @@ The [tracker format](https://en.wikipedia.org/wiki/Module_file) can be divided i
 
 Certain platforms have sample and instrument restrictions like only generating sinus, saw or square wave forms. Or only allowing certain types of filters. The limitations of each soundchip popularized on different 8bit and 16bit machines gives certain platforms it's distinctive sound.
 
-To create sound for limited size intros demomakers have developed their own synthetizers, forcing the musicians to create instruments procedurally. Storing the function steps required to recreate the instruments proceduraly takes less space then storing the entire sample. Popular demoscene synths include [4klang](http://4klang.untergrund.net/) and [clinkster](http://www.pouet.net/prod.php?which=61592).
+To create sound for limited size intros demomakers have developed their own synthesizers, forcing the musicians to create instruments procedurally. Storing the function steps required to recreate the instruments procedurally takes less space then storing the entire sample. Popular demoscene synths include [4klang](http://4klang.untergrund.net/) and [clinkster](http://www.pouet.net/prod.php?which=61592).
 
-Ofcourse if you are doing sound for demos you are not limited by size, so you can do your soundtrack in whatever application your prefer (fruity loops, ableton live, cubase, reason, logic pro, etc).
+Of course if you are doing sound for demos you are not limited by size, so you can do your soundtrack in whatever application your prefer (Fruity loops, Ableton live, Cubase, reason, logic pro, etc.).
 
 By the end of day 4 you should know what tools to use if you want to do sound for a demo or a music compo entry. Try a few of them out, check some tutorials, learn the shortcuts and master the tool you find most interesting.
 
@@ -85,9 +85,9 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
 
-[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorythms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or confortable with.
+[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
 
-To avoid initial frustration you should probably start with something that let's you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
+To avoid initial frustration you should probably start with something that lets you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
 
 There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels more natural to you, as long as the entry gets done in time to get shown on the big screen you're doing it right.
 
@@ -103,7 +103,7 @@ By the end of day 5 you should know what it takes to take on the programming rol
 
 ## Day 6 - Tools and Resources
 
-There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are comercial (like Maya, 3DS Max, Photoshop), others are open source or freeware, and then there are the so called demotools. Tools made by demosceners especially to help create demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others open source their tools and libraries in order to have more users and raise the bar. The end goal is always to make more good demos.
+There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are commercial (like Maya, 3DS Max, Photoshop), others are open source or freeware, and then there are the so called demotools. Tools made by demosceners especially to help create demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others open source their tools and libraries in order to have more users and raise the bar. The end goal is always to make more good demos.
 
 I would strongly advise you to take a quick look at the different demotools available and see which ones you can use to avoid reinventing the wheel and achieve cool results sooner. You can find a list of the most famous demotools on [pouet](http://www.pouet.net/prodlist.php?type%5B0%5D=demotool&page=1&order=thumbup), they range from texture generators, music trackers, synths or graphics tools or format converters to full featured demomaking engines, executable packers and linkers.
 
@@ -111,9 +111,9 @@ The best way to know what tool might interest you is to either check them all ou
 
 Similarly important to knowing the tools of the trade available to you are what resources are out there, ranging from free tracks, samples, free sprites, free animated models, usable tools, editors and engines, tutorials, irc channels where to get motivation and support, etc. It's usually a matter of doing a few google searches or asking fellow sceners about their demomaking habits.
 
-Demosceners typically have very strong opinions on what is the cool and what is lame. Demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's easy to get negative commentary, you should realize that an opinion is just an opinion, you don't have to please everyone. Demoscene is a hobby, so you should above all please yourself first. If you put effort and dedication into your entry i'm sure people will acknowledge your effort regardless of if they liked it or disagree with the "shortcuts" you took in their eyes to get the demo done. My recommendation is to be honest with your sources, entries typically have a readme.txt file in the package where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed shaders or a commercial engine. They will evaluate it accordingly.
+Demosceners typically have very strong opinions on what is the cool and what is lame. The demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's easy to get negative commentary, you should realize that an opinion is just an opinion, you don't have to please everyone. The demoscene is a hobby, so you should above all please yourself first. If you put effort and dedication into your entry I’m sure people will acknowledge your effort regardless of if they liked it or disagree with the "shortcuts" you took in their eyes to get the demo done. My recommendation is to be honest with your sources, entries typically have a readme.txt file in the package where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed shaders or a commercial engine. They will evaluate it accordingly.
 
-That being said, the more "original" material and effort you put into the entry the more impact it will have on the viewer. Generally speaking: reuse with proper creditting is generally considered fair game, claiming ownership of someone else's work is not.
+That being said, the more "original" material and effort you put into the entry the more impact it will have on the viewer. Generally speaking: reuse with proper crediting is generally considered fair game, claiming ownership of someone else's work is not.
 
 By the end of day 6 you should have a good idea of what tools and resources are out there to assist you on your plan for demoscene world domination.
 
@@ -131,14 +131,14 @@ Some coders only do engines, frameworks and tools. Some graphicians only fool ar
 
 All these approaches are valid. Demoscene is a hobby, so don't treat it as work, do whatever you like whenever you feel like doing it.
 
-Some protips to keep in mind:
+Some pro tips to keep in mind:
 
-1. There is a finite number of productive hours per day, there is a finite number of days until the deadline, aim for achievable goals, build on top of them after you've reached them.
+1. There is a finite number of productive hours per day, there is a finite number of days until the deadline, aim for achievable goals, and build on top of them after you've reached them.
 2. If you have no ideas, try to do random things, eventually you will come up with something more concrete. Don't let a lack of concept stop you.
-3. Do stuff on the project for atleast 5 minutes each day, even if it's just tweaking some colors, it helps to keep the project in the back of your mind.
-3. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project aswell.
+3. Do stuff on the project for at least 5 minutes each day, even if it's just tweaking some colors, it helps to keep the project in the back of your mind.
+3. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project as well.
 
-If you keep these things in mind by the end of day 8 you should have an achievable goal in mind or atleast some ideas for effects to try out.
+If you keep these things in mind by the end of day 8 you should have an achievable goal in mind or at least some ideas for effects to try out.
 
 ## Day 9 - Proof of Concept
 
