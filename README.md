@@ -1,4 +1,4 @@
-# Teach Yourself to Be Part of the Demoscene in 14 Days
+# Teach Yourself Demoscene in 14 Days
 
 A guidebook idea for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
@@ -85,7 +85,7 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
 
-[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorythms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
+[Khan Academy](https://www.khanacademy.org/) is as good place as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
 
 To avoid initial frustration you should probably start with something that lets you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue, there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
 
