@@ -170,6 +170,6 @@ If you keep all these things in mind by the end of day 8 you should have plotted
 ## Day 14 - Pouet != Scene && Scene != Pouet
 
 
-## Aknowledgements
+## Acknowledgements
 
 Written by ps with support of cxw, Danny and hardy. Original idea by Saga Musix.
