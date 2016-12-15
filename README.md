@@ -172,4 +172,4 @@ If you keep all these things in mind by the end of day 8 you should have plotted
 
 ## Aknowledgements
 
-Greetings to Danny and hardy for proof-reading and comments.
+Written by ps with support of cxw, Danny and hardy. Original idea by Saga Musix.
