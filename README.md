@@ -159,9 +159,73 @@ If you keep all these things in mind by the end of day 8 you should have plotted
 
 ## Day 9 - Proof of Concept
 
+By now you should have an idea of something that you want to explore within the demoscene. It can be either trying to track a tune, draw a logo, model an object or code an effect.
+
+It's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep in mind that it has been proven anyone spending over 10,000 hours doing something will eventually be an expert in the area. It's very hard for the human mind to _not_ learn from it's mistakes. So don't be afraid to make them, fail often, fail hard, eventually you will succeed.
+
+It's normal to sometimes be afraid of tackling a new challenge. Some people avoid it due to sheer lack of confidence. Others like doing brainstorm sessions about the topic to help them figure out the best way to tackle the challenge.
+
+Nothing wrong with taking your time planning a strategy, but it's all useless if you don't actually sit down and try to get it done. 
+
+If you're feeling useless use the whiteboard or the good old pen and paper, drawing helps the brain puzzle things out. It doesn't need to be anything fancy, just a sketch, notes, a list of ideas, a list of tasks, or a mapping of concepts, even some simple workflow charts can be extremely helpful to get your thoughts in check.
+
+Force yourself to work on the issue atleast 5 to 15 minutes every day. Even if it's just analysing what you have, or doing small changes. Open your tool and try something. More often then not you'll end up spending much longer then that fixing things, but if you don't set that discipline it's easy to set it for later. Later doesn't get done.
+
+If an empty canvas is too daunting, throw something random at it. Either play some random notes or draw some random shapes. And then just try to make sense of it. It's an easy catalyst for a new idea.
+
+Trying to do a proof of concept for your idea is the best way to start getting things done. Don't expect it to match your original idea. Don't get disapointed if it's not what you had envisioned. Atleast it's something. And from that something you can either work on top of. Even if you conclude it's just crap, by going through the process of creating it you will have learned things which will help you on your next attempts. You gain invaluable experience points from everything you do.
+
+By the end of day 9 you should be aware of the importance of building a proof of concept of your idea and some insight on how to break out of the demosceners procastination curse.
+
 ## Day 10 - Deadlines are Important
 
+Nothing like a good old deadline to force you to finish your ideas into a finalized form.
+
+Demoscene has a natural deadline called a demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment, it usually comes just a few seconds after buying the party entrance tickets.
+
+Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except everyone at the party will most likely ask you if you're working on any entry for the compos, and there is only such a limited ammount of plausible excuses you can give to not be working on an entry while you still have time. 
+
+Even half an hour is plenty of time to do _something_. It might not be the mona lisa of the demoscene, but you it's never just a matter of time. There are even fastcompos, prepared specifically to force you to do something in small time constraints. If you don't have a topic to work on, people will throw a topic at you. There are very few socially acceptable excuses in the demoscene for not making an entry for the compos. No pressure, just do something!
+
+And we're only telling you this for your own good. If you don't do anything, you'll just spend the rest of the event watching other people's entries on the big screen and wondering if you couldn't have done something that would place higher then that piece of crap you just saw or heard.
+
+So you see, if you're serious about wanting to make a demo, just buy tickets to a demoparty, and then you have yourself a nice good old deadline.
+
+The good thing about a demoparty deadline is that you see it coming months ahead, so technically speaking you can actually plan for something decent and start working on it in due time.
+
+One thing you should know about deadlines is that, unless you're a total control freak, they tend to sneak up on you. You think you have time, so you plan this great thing, and then you start realizing you aren't actually following up your work plan and your idea needs to be cut down for something simpler. My suggestion to avoid this fail is to plan realistically. Build the core of your entry early on and then spend the extra time before the deadline polishing things up, maybe getting preview feedback from people whose opinion you respect?
+
+Don't be afraid of the deadline. Deadline is your friend. It forces you to stop with the daydreaming bullshit and focus on what's really important and actually achievable. If the deadline wasn't there you would most probably never actually deliver anything. "Art is never finished, only abandoned." Look at the deadline as something that will free you from your current artistic burden. And if you don't buy into that philosophy you can always release a final version after the party.
+
+By the end of day 10 you should realize the importance of deadlines, how to not fear them, but respect them for the panic and closure they bring to the creative process.
+
 ## Day 11 - Get Help
+
+You can do great demos alone. Lots of demosceners make demos alone.
+
+Other demosceners prefer to work in groups. There are advantages and disadvantages to both approaches. They entirely depend on your workflow and your ability to find people who share your vision.
+
+Regardless if you work alone or in a demogroup, you may sometimes find yourself in a bit of a pickle going through your demo making adventure. If you ever do, you should be aware that other demosceners tend to be helpful in all sorts of ways:
+
+1. They can lend you their insight into your problem.
+
+2. You can randomly ask them if they are interested in contributing assets to your demo.
+
+3. They tend to share how they have their workflow set up.
+
+4. You can send them previews of your work-in-progress and ask for feedback on how to improve it.
+
+5. They can lend you computers to finish or submit your entry at the partyplace.
+
+6. They can bring you food, beer or coffee when you're working on an entry.
+
+7. They might even teach you how to use tools and tricks that make your life easier.
+
+My point is, you're not alone doing demos, there are plenty of others out there that know what you're trying to do and will gladly help where they can. Most of them have already tackled that specific problem you're trying to solve. So why not ask them for some insight? It might save you many frustrating hours.
+
+If you're shy to approach people, there are also recorded conference talks of demosceners covering different topics of interest to the demoscene which you can find on the internet and learn from.
+
+By the end of the 11th day you should know the importance of getting help when you are in dire need and that demosceners are typically easy to approach on such topics.
 
 ## Day 12 - Crunch Time
 
