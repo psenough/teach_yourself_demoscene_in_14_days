@@ -97,6 +97,8 @@ Another point worth addressing is that you don't have to prepare the entire deve
 
 If you're focused on doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k development, you can find resources at [in4k](https://in4k.github.io/).
 
+Most demo effects in the recent years (2010-2016) are heavily based on pixel and fragment shaders coded in HLSL or GLSL. To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/) and a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
+
 Try to program a new effect each day and you'll eventually start to get the hang of it and figure out areas that you should read up on to improve your skillset.
 
 By the end of day 5 you should know what it takes to take on the programming role of demomaking.
