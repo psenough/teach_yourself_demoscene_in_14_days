@@ -53,7 +53,7 @@ By the end of day 2 you should have an idea of what you want to explore more ser
 
 ## Day 3 - Basics of Graphics
 
-The role of doing graphics for a demo is typically supported by a so called graphician. To be a successful graphician in the demoscene you should hopefully enjoy drawing and being randomly creative. There are many tools you can use to do graphics:
+The role of doing graphics for a demo is typically supported by a so called graphician. To be a successful graphician in the demoscene you should hopefully enjoy drawing and being randomly creative. There are many tools you can use to do graphics.
 
 Pixel art graphics typically focus on a limited palette of colors and image size. The restrictions come from the oldschool machines that had such limitations on hardware. These images are typically called sprites. 2D animations are created by cycling between sprite frames in the right order. You can [google for pixel art graphics tools](http://lmgtfy.com/?q=pixel+art+graphics+tools) and find a whole bunch of modern editors for pixel art. Real sceners will tell you about [Grafx2](http://www.pouet.net/prod.php?which=51865) or the more recent [Multipaint](http://www.pouet.net/prod.php?which=66976).
 
