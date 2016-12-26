@@ -1,6 +1,6 @@
 # Teach Yourself Demoscene in 14 Days
 
-A guidebook idea for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
+A guidebook for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
 ## Day 1 - Demoscene?
 
