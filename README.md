@@ -203,9 +203,9 @@ By the end of day 10 you should realize the importance of deadlines, how to not 
 
 ## Day 11 - Get Help
 
-You can do great demos alone. Lots of demosceners make demos alone.
+You can do great demos alone. Lots of demosceners make demos alone. That doesn't mean you have to.
 
-Other demosceners prefer to work in groups. There are advantages and disadvantages to both approaches. They entirely depend on your workflow and your ability to find people who share your vision.
+Most demosceners prefer to work in groups. There are advantages and disadvantages to both approaches. They entirely depend on your workflow and your ability to find people who share your vision.
 
 Regardless if you work alone or in a demogroup, you may sometimes find yourself in a bit of a pickle going through your demo making adventure. If you ever do, you should be aware that other demosceners tend to be helpful in all sorts of ways:
 
@@ -231,10 +231,55 @@ By the end of the 11th day you should know the importance of getting help when y
 
 ## Day 12 - Crunch Time
 
+When the deadline is upon you and you want to finish the project it's time to enter crunch time.
+
+Crunch time means you and your team sitting down and working on all the things that need to get done, not leaving until they get done. No interruptions except for food, bathroom and sleep.
+
+Productivity under crunch time is often higher, but it will soon start to deteriorate as the period extends itself. This is normal, you and your team are only human, you will get tired and start to lose focus and patience. Long crunch times can be counter productive. They can also leave you quite burned out. So learn to plan ahead and avoid unnecessary crunch time periods.
+
+Typically crunch time should only be enforced to wrap things up: Clean the last bugs, implement the last effect, integrate the final artwork, tweak some colors and syncs.
+
+Howhever some folks enjoy procastinating a lot, discussing what the project could be instead of actually trying things out or following a plan to accomplish what is already defined. Planning things properly is very important but at some point you need to stop planning and just do things. To push the planning forward some people enjoy doing their projects in semi-regular sprints. A sprint is a short period of time where you enter crunch mode totally focused on that project alone. They are great ways to kickstart a project, tackle a specific issue or just add some more content to your project.
+
+When you're planning your project and defining some sprints or crunch time, be aware that your end result is never quite what you intended to achieve, always reserve some buffer time. Buffer time  should typically be an extra 20% or 50% of what you believe will take you to accomplish the task.
+
+Buffer time will always be consumed. Projects always take longer then initially expected. This is completely normal and the only thing you should do about it is to expect it. If it's not obvious enough let me explain why: you can't ever estimate the unknown and any creative process involves dealing with the unknown. A project that falls exactly under the estimated timeframe is a project where you were surely not being creative enough.
+
+By the end of day 12 you should know the dangers and importance of crunch times to deliver a demoscene entry on time. Use them wisely!
+
 ## Day 13 - The Real Party is Outside
+
+Demoparties are were demosceners gather to meet each other, finish their productions and share them with each other on the big screen.
+
+At some point some folks realized there was more to life then sitting inside a smelly party place finishing their entries. They realized there was a whole world out there to be explored. I'm ofcourse talking about the outside of the partyplace, where the demosceners gather to meet each other, talk about how late they are finishing their productions and idle waiting to share them with each other on the big screen.
+
+As it happens, inside of demoparty halls things tend to be a bit more strict in terms of what regulations apply, on what you can and cannot do. You usually can't eat, drink or smoke. Sometimes the sound is too loud. In other occasions they won't let you make any sound of your own. And so, after a few hours of working on your entry, you tend to enjoy walking outside to get some air. This is the perfect opportunity to socialize with fellow demosceners who are doing the same thing just outside the partyplace. And this is why demosceners are known to mention that the real party is outside.
+
+During particularly cold winters this task can be challenging. Under these occasions demosceners are known to build campfires to help warm each other up.
+
+As a side note: sleeping areas are also not the most indicated place to eat, drink, smoke or socialize. Demosceners (like any other creature) tend to dislike being awakened when they are tired and will often complain that you should take your party outside.
+
+Socializing is important. Sceners are usually quite social. Don't be afraid of talking to random demosceners. Don't be afraid of introducing yourself to people whose work you admire. By experience i can tell you they will most likely appreciate your interest and share with you their thoughts on your work and your methods. Maybe even get some insight on how to improve the entry you are currently working on.
+
+Last but not least remember not to be an ass. No one likes annoying people, be them demosceners or not. If you can't communicate without being rude keep your opinions to yourself. If you can't hold your alcohol, don't drink yourself silly.
+
+By the end of the 13th day you should know where the real party is located and not be afraid to go there.
 
 ## Day 14 - Pouet != Scene && Scene != Pouet
 
+After the demoparty comes the official release of your entry.
+
+Most entries nowdays are automatically released by the party voting system. This means they will be uploaded to the internet where people will be able to download, watch, listen and inevitably comment.
+
+You should be aware by now that most people say things online they would never say in person. You can't see them, you often don't know them, it's hard to understand what they mean exactly, and it's easy to take negative feedback the wrong way.
+
+Pouet.net is a website where most demoscene entries are listed and commented on by the international demoscene community. Like any online forum it's quite easy to get missunderstood and start a flamewar over the silliest of things. So this is the most important thing you should know about pouet: Pouet is not the demoscene. And also, the demoscene is not pouet.
+
+Pouet is a place to write your opinions on each others entries, it can also be a great source of community feedback, but never make the mistake of reading the comments on pouet and taking them too seriously. Pouet is pigs and trumpets.
+
+Demoscene on the other hand is a supportive community, a culture, some people even call it a family or a way of life.
+
+By the end of the 14th day you should know all about the demoscene, how to make your first entry, the importance of attending demoparties and getting to know the community. Above all you should know that demoscene is about having fun doing digital art and creative things in general.
 
 ## Acknowledgements
 
