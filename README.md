@@ -27,7 +27,7 @@ Releases typically occur at [demoparties](http://www.demoparty.net/). Demopartie
 
 Given all this knowledge, your mission, should you choose to accept it, is to, in 14 days, make your first demoscene entry, meet some fellow demosceners, participate in a compo at a demoparty and eventually "bring a big shock to Japanese brain" as some sceners say.
 
-On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice [https://www.youtube.com/user/Annikras](Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel), which might be useful, although demos are always best experienced running live on their target platform.
+On this first day of the rest of your life you should probably google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice [Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel](https://www.youtube.com/user/Annikras), which might be useful, although demos are always best experienced running live on their target platform.
 
 ## Day 2 - Find your Vocation
 
