@@ -283,4 +283,4 @@ By the end of the 14th day you should know all about the demoscene, how to make 
 
 ## Acknowledgements
 
-Written by ps with support of cxw, Danny and hardy. Original idea by Saga Musix.
+Written by [ps](http://tpolm.org/~ps) with support of cxw, Danny and hardy. Original idea by Saga Musix.
