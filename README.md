@@ -93,91 +93,100 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
 
-[Khan Academy](https://www.khanacademy.org/) or [Codecademy](https://www.codecademy.com/) are as good places as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms. There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
+[Khan Academy](https://www.khanacademy.org/) or [Codecademy](https://www.codecademy.com/) are as good places as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms.
 
-To avoid initial frustration you should probably start with something that lets you throw something on the screen relatively quickly, languages such as [Processing](https://processing.org/), or platforms such as [Unity3D](https://unity3d.com/) are great ways to get into graphics programming. Whatever language, development platform or APIs that you choose to pursue, there will surely be a graphical canvas for you to dirty with pixels, triangles and quads. And that's what you should focus on at start.
+There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
+
+To avoid initial frustration you should probably start with something that lets you throw something on the screen without much effort, programming environments such as [Processing](https://processing.org/), or [Unity3D](https://unity3d.com/) are great ways to get into programming graphics. Whatever language, development platform or APIs that you choose to pursue, it surely includes some sort of graphic output canvas where you can draw upon with pixels, triangles or quads.
 
 There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
 
-Some programmers get a bit caught up in the right way to code, reading books, following the best practices, debating them, getting caught up in endless refactoring cycles and never finishing the actual demo. If that's you i suggest you read [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and focus on getting the demo done.
+Some programmers get a bit caught up in the right way to code, reading books, following best practices, debating them, getting caught up in trendy methologies or endless refactoring cycles and never actually releasing a demo. If that's you i strongly suggest that you take a look at [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and release your demo.
 
-Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to still program a demo. Some coders prefer working on engines and tools for other demosceners to use instead of coding an actual demo themselves. Others hate dealing with those things and just like to put the final product together. It's useful to dabble on the different fields but at the end of the day you should focus with the area you are more interested in or comfortable with.
+Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to release a demo. Some coders prefer working on tools and engines and having other demosceners use them. They enjoy the engineering side more than the creative application. While others hate developing tools and engines and just enjoy putting a demo together. Ofcourse it's useful to dabble on the different sides of the field, but at the end of the day you should focus on what are more interested in or comfortable with.
 
 If you're focused on doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k development, you can find resources at [in4k](https://in4k.github.io/).
 
-Most demo effects in the recent years (2010-2016) are heavily based on pixel and fragment shaders, coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/) and a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
+Most demo effects in the recent years (2010-2016) are heavily based on pixel and fragment shaders, either coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/) and a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
 
-Try to program a new effect each day and you'll eventually start to get the hang of it and figure out areas that you should read up on to improve your skillset.
+Try to program a new effect each day and you'll eventually start to get the hang of it and figure out which areas you should read up on to improve your skillset.
 
 By the end of day 5 you should know what it takes to take on the programming role of demomaking.
 
 ## Day 6 - Tools and Resources
 
-There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are commercial (like Maya, 3DS Max, Photoshop), others are open source or freeware, and then there are the so called demotools. Tools made by demosceners especially to help create demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others open source their tools and libraries in order to have more users and raise the bar. The end goal is always to make more good demos.
+There are many ways to do demos. Some folks enjoy coding everything from scratch, others prefer to use tools to facilitate their work. There are many types of tools, some are commercial (like Maya, 3DS Max, Photoshop), others are open source or freeware. And then we have the so called demotools. Demotools are tools made by demosceners especially to help create better demos. Demotools are especially important if you're working on size limited entries. Some groups develop their internal demotools, others prefer to go open source in order to have more users and raise the bar. The end goal is always to make more good demos.
 
-I would strongly advise you to take a quick look at the different demotools available and see which ones you can use to avoid reinventing the wheel and achieve cool results sooner. You can find a list of the most famous demotools on [pouet](http://www.pouet.net/prodlist.php?type%5B0%5D=demotool&page=1&order=thumbup), they range from texture generators, music trackers, synths or graphics tools or format converters to full featured demomaking engines, executable packers and linkers.
+I would strongly advise you to take a quick look at the different demotools available and see which you can use, this is important to avoid reinventing the wheel and achieve good results before you grow frustrated with the learning curve. You can find a list of the most famous demotools on [pouet](http://www.pouet.net/prodlist.php?type%5B0%5D=demotool&page=1&order=thumbup), they range from texture generators, music trackers, synths or graphics tools or format converters to full featured demomaking engines, executable packers and linkers.
 
 The best way to know what tool might interest you is to either check them all out one at a time, or visit a demoparty on location and just randomly ask another fellow scener. Your tools largely depend on your demoscene role of choice and target platform so i hope you have a hint of a plan by now.
 
+As you progress you will notice several limitations and quirks with the tools you use, and will most likely feel the need to either develop your own set of tools or contribute to active existing projects.
+
 Similarly important to knowing the tools of the trade available to you are what resources are out there, ranging from free tracks, samples, free sprites, free animated models, usable tools, editors and engines, tutorials, irc channels where to get motivation and support, etc. It's usually a matter of doing a few google searches or asking fellow sceners about their demomaking habits.
 
-Demosceners typically have very strong opinions on what is the cool and what is lame. The demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's easy to get negative commentary, you should realize that an opinion is just an opinion, you don't have to please everyone. The demoscene is a hobby, so you should above all please yourself first. If you put effort and dedication into your entry I’m sure people will acknowledge your effort regardless of if they liked it or disagree with the "shortcuts" you took in their eyes to get the demo done. My recommendation is to be honest with your sources, entries typically have a readme.txt file in the package where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed shaders or a commercial engine. They will evaluate it accordingly.
+Demosceners typically have very strong opinions on what is cool and what is lame. The demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's quite easy to get negative commentary. You should realize that an opinion is just an opinion, you don't have to please everyone. The demoscene is a hobby, so you should above all, aim to please yourself first. If you put effort and dedication into your entry I’m sure people will acknowledge your effort regardless of if they liked it or disagree with some of the "shortcuts" you took in their eyes to get the demo done.
 
-That being said, the more "original" material and effort you put into the entry the more impact it will have on the viewer. Generally speaking: reuse with proper crediting is generally considered fair game, claiming ownership of someone else's work is not.
+My recommendation is to always be honest with your sources, entries typically have a readme.txt file in the package, this is a text document where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed some shaders or used a commercial engine. They will evaluate it accordingly.
 
-By the end of day 6 you should have a good idea of what tools and resources are out there to assist you on your plan for demoscene world domination.
+That being said, the more "original" material and effort you put into the entry the more impact it will have on other demosceners. Generally speaking: reusing with proper credit is generally considered fair game, claiming ownership of someone else's work is not.
+
+By the end of day 6 you should have a good idea of what tools and resources are out there to assist you on your plan for world domination.
 
 ## Day 7 - Experiment
 
-Whether you're a musician, graphician or coder: don't be afraid to experiment.
+Whether you're a musician, graphician or coder: there is one golden rule in the demoscene, don't be afraid to experiment.
 
 Experiment with tools, experiment with ideas.
 
-Repurpose, remix, discuss with other sceners.
+Repurpose, remix, discuss things.
 
-Don't be afraid to fail, it's normal to fail, that's how you find interesting things, that's how you learn how to do things properly. Go forth and fail, eventually you will succeed!
+Don't be afraid to fail, it's normal to fail, that's how you find interesting things, that's how you learn. So go forth and fail, fail hard, fail misserably, fail often, eventually you will succeed!
 
 Don't expect your first track to be great. Don't expect your first pixel graphics to look good. Don't expect your first demo to be any good. The first demos from 90% of sceners are a total load of crap!
 
-You should also be aware that it's common to get creative blocks or lose your motivation to do things from time to time. Just remember that demoscene is a hobby, you're free to do whatever you want at whatever pace you please. Some sceners take decades working on their demoscene masterpiece on and off!
+You should also be aware that it's quite common to get creative blocks or lose your motivation to do things from time to time. Just remember that demoscene is a hobby, you're free to do whatever you want at whatever pace you please. Some sceners take decades to release something, working on their masterpieces on and off!
 
-As long as you keep yourself motivated to try new things, eventually you will manage to release something you are truly proud of.
+I promise you on first hand experience that as long as you keep experimenting you will eventually manage to release something you are truly proud of. So don't be afraid to experiment!
 
-At the end of day 7 you should now have a good grasp on the importance of not being afraid to just try things and experiment.
+At the end of day 7 you should now have a good grasp on the importance of experimenting with things.
 
 ## Day 8 - Achievable Goals
 
-There are many ways of making a demo. The only right way is your own way. The way that is interesting and fun.
+As previously mentioned there are plenty of ways to make a demo. The only right way is your own way. The way that is most interesting and fun for you.
 
-That being said you should always aim for achievable goals. If you are not reasonable with your capabilities you'll soon find yourself demotivated to carry on improving your release. Always better to start small and build on top of what you already have working.
+That being said, an effective rule to ensure a release is to aim for achievable goals. If you are not reasonable with your capabilities you'll soon find yourself demotivated and fail to meet the deadline. For most projects it's always better to start small and build on top of what you already have working.
 
 If you have no idea where to start here are a few pointers:
-* Some people try to replicate some effects after seeing something interesting in other demos, movies, adverts or nature. Building up a set of different effects and then trying to find a soundtrack that can glue them together into something nice.
-* Others prefer to nail down a concept and only then get to work on it's different components. Some sceners only feel the drive to create something when someone requests them to do something or throws them a challenge.
-* Some coders only do engines, frameworks and tools. Some graphicians only fool around with engines until something seems interesting. 
+* Some people try to replicate some effects after seeing something interesting on other demos, movies, adverts or nature. Building up a batch of different effects which can later be adapted to match a track.
+* Others prefer to nail down a concept first and only then get to work on it's different components.
+* Some sceners only feel the drive to create something when they are challenged with a very specific issue.
+* Some coders only do engines, frameworks and tools. Sharing them with other sceners to see what they can do with them.
+* Some graphicians fool around with engines and tools until something seems interesting.
+* Some musicians prepare timelines and storyboards for their sounds.
 
-All these approaches are valid. Demoscene is a hobby, so don't treat it as work, do whatever you like whenever you feel like doing it.
+All these approaches are valid. As mentioned several times already demoscene is a hobby, so don't treat it as work. Do whatever you like whenever you feel like doing it.
 
 Some pro tips to keep in mind:
 
-1. There is a finite number of productive hours per day, there is a finite number of days until the deadline, aim for achievable goals, and build on top of them after you've reached them.
-2. If you have no ideas, try to do random things, eventually you will come up with something more concrete. Don't let a lack of concept stop you.
-3. Do stuff on the project for at least 5 minutes each day, even if it's just tweaking some colors, it helps to keep the project in the back of your mind.
-4. Communicate your progress with your team mates, they might give you feedback, and it'll motivate them to go do something for the project as well.
+1. There is a finite number of productive hours per day, there is a finite number of days until the demoparty deadline, aim for achievable goals. If you achieve them fast, build on top of them.
+2. If you have no ideas, try random things. Eventually you will come up with a concept. Don't let a lack of initial concept paralyse you.
+3. Work on the project at least 5 minutes each day, even if it's just tweaking some colors. This helps to keep the project in the back of your mind and eventually you will find the motivation to spend more then just 5 minutes and do a bigger push.
+4. Communicate your progress with your team mates. They might give you important feedback, and it can also motivate them to contribute.
 
-If you keep all these things in mind by the end of day 8 you should have plotted an achievable goal.
+If you keep all these things in mind by the end of day 8 you should have plotted an achievable goal and laid down a work plan to achieve it.
 
 ## Day 9 - Proof of Concept
 
 By now you should have an idea of something that you want to explore within the demoscene. It can be either trying to track a tune, draw a logo, model an object or code an effect.
 
-It's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep in mind that it has been proven anyone spending over 10,000 hours doing something will eventually be an expert in the area. It's very hard for the human mind to _not_ learn from it's mistakes. So don't be afraid to make them, fail often, fail hard, eventually you will succeed.
+So it's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep this in mind: It's been scientifically proven that anyone spending over 10,000 hours doing something will eventually become an expert in the area. It's very hard for the human mind to _not_ learn from it's mistakes. So don't be afraid to make them, as mentioned: fail often, fail hard, eventually you will succeed.
 
-It's normal to sometimes be afraid of tackling a new challenge. Some people avoid it due to sheer lack of confidence. Others like doing brainstorm sessions about the topic to help them figure out the best way to tackle the challenge.
+It's normal to sometimes be afraid of tackling a new challenge. Some people simply lack the confidence they will accomplish it. Others prefer brainstorming about the topic to help them figure out the best way to tackle it before they attack it.
 
-Nothing wrong with taking your time planning a strategy, but it's all useless if you don't actually sit down and try to get it done. 
+There is nothing wrong with taking your time planning a strategy, but it's all quite useless if you don't actually sit down and try to get it done.
 
-If you're feeling useless use the whiteboard or the good old pen and paper, drawing helps the brain puzzle things out. It doesn't need to be anything fancy, just a sketch, notes, a list of ideas, a list of tasks, or a mapping of concepts, even some simple workflow charts can be extremely helpful to get your thoughts in check.
+If you're feeling useless, try using the whiteboard or the good old pen and paper, drawing helps the brain puzzle things out. It doesn't need to be anything fancy, just a sketch, notes, a list of ideas, a list of tasks, or a mapping of concepts, even some simple workflow charts can be extremely helpful to get your thoughts in check.
 
 Force yourself to work on the issue atleast 5 to 15 minutes every day. Even if it's just analysing what you have, or doing small changes. Open your tool and try something. More often then not you'll end up spending much longer then that fixing things, but if you don't set that discipline it's easy to set it for later. Later doesn't get done.
 
