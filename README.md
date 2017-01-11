@@ -180,7 +180,7 @@ If you keep all these things in mind by the end of day 8 you should have plotted
 
 By now you should have an idea of something that you want to explore within the demoscene. It can be either trying to track a tune, draw a logo, model an object or code an effect.
 
-So it's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep this in mind: It's been scientifically proven that anyone spending over 10,000 hours doing something will eventually become an expert in the area. It's very hard for the human mind to _not_ learn from it's mistakes. So don't be afraid to make them, as mentioned: fail often, fail hard, eventually you will succeed.
+So it's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep this in mind: It's been scientifically proven that anyone spending over 10,000 hours doing any task will eventually become an expert in it. It's very hard for the human mind _not_ to learn from mistakes. So don't be afraid to make them, as mentioned: fail often, fail hard, eventually you will succeed.
 
 It's normal to sometimes be afraid of tackling a new challenge. Some people simply lack the confidence they will accomplish it. Others prefer brainstorming about the topic to help them figure out the best way to tackle it before they attack it.
 
@@ -192,39 +192,37 @@ Force yourself to work on the issue atleast 5 to 15 minutes every day. Even if i
 
 If an empty canvas is too daunting, throw something random at it. Either play some random notes or draw some random shapes. And then just try to make sense of it. It's an easy catalyst for a new idea.
 
-Trying to do a proof of concept for your idea is the best way to start getting things done. Don't expect it to match your original idea. Don't get disapointed if it's not what you had envisioned. Atleast it's something. And from that something you can either work on top of. Even if you conclude it's just crap, by going through the process of creating it you will have learned things which will help you on your next attempts. You gain invaluable experience points from everything you do.
+Trying to do a proof of concept for your idea is the best way to get things rolling. Don't expect the final results to match your original idea. Don't get disapointed if it's not what you had envisioned. Atleast it's something. Even if you conclude it's just crap, by going through the process of creating it you will have learned things which will help you on your next attempts. You gain invaluable experience points from everything you do.
 
 By the end of day 9 you should be aware of the importance of building a proof of concept of your idea and some insight on how to break out of the demosceners procastination curse.
 
 ## Day 10 - Deadlines are Important
 
-Nothing like a good old deadline to force you to finish your ideas into a finalized form.
+Nothing like a good old deadline to force you to shape your ideas into a finalized entry.
 
-Demoscene has a natural deadline called a demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment, it usually comes just a few seconds after buying the party entrance tickets.
+Demoscene has a natural deadline called the next demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment when planning to attend a demoparty, it usually comes right after buying the party entrance or flight travel tickets.
 
-Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except everyone at the party will most likely ask you if you're working on any entry for the compos, and there is only such a limited amount of plausible excuses you can give to not be working on an entry while you still have time. 
+Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except that everyone at the party will most likely be asking you if you're working on an entry for the compos, and there is only such a limited amount of plausible excuses you can give to justify not working on an entry while you still have some time left. 
 
-Even half an hour is plenty of time to do _something_. It might not be the mona lisa of the demoscene, but you it's never just a matter of time. There are even fastcompos, prepared specifically to force you to do something in small time constraints. If you don't have a topic to work on, people will throw a topic at you. There are very few socially acceptable excuses in the demoscene for not making an entry for the compos. No pressure, just do something!
+Even half an hour is plenty of time to do _something_ for a compo. It might not be the mona lisa of the demoscene, but it's an entry. To prepare you for these last minute attempts to deliver something in a rush there are also fastcompos. Events prepared specifically to force you to do something within small time constraints. If you don't have a topic to work on, people will throw a topic at you.
 
-And we're only telling you this for your own good. If you don't do anything, you'll just spend the rest of the event watching other people's entries on the big screen and wondering if you couldn't have done something that would place higher then that piece of crap you just saw or heard.
-
-So you see, if you're serious about wanting to make a demo, just buy tickets to a demoparty, and then you have yourself a nice good old deadline.
+If you don't do anything, you'll spend the rest of the event watching other people's entries on the big screen and wondering if you couldn't have done something that would place higher then that piece of crap you just saw or heard. So you see, if you're serious about wanting to make a demo, just buy yourself the tickets to a demoparty, and with them, automatically, will come the motivation to do something.
 
 The good thing about a demoparty deadline is that you see it coming months ahead, so technically speaking you can actually plan for something decent and start working on it in due time.
 
-One thing you should know about deadlines is that, unless you're a total control freak, they tend to sneak up on you. You think you have time, so you plan this great thing, and then you start realizing you aren't actually following up your work plan and your idea needs to be cut down for something simpler. My suggestion to avoid this fail is to plan realistically. Build the core of your entry early on and then spend the extra time before the deadline polishing things up, maybe getting preview feedback from people whose opinion you respect?
+One thing you should know about deadlines is that, unless you're a total control freak, they tend to sneak up on you. You think you have time, so you plan this great thing, and then you start realizing you aren't actually following up your work plan and your idea needs to be cut down for something simpler. My suggestion to avoid this point of failure is to always plan realistically. Build the core of your entry early on and then spend the extra time before the deadline polishing things up, maybe getting feedback from people whose opinion you respect?
 
-Don't be afraid of the deadline. Deadline is your friend. It forces you to stop with the daydreaming bullshit and focus on what's really important and actually achievable. If the deadline wasn't there you would most probably never actually deliver anything. "Art is never finished, only abandoned." Look at the deadline as something that will free you from your current artistic burden. And if you don't buy into that philosophy you can always release a final version after the party.
+Don't be afraid of the deadline. Deadline is your friend. It forces you to stop with the daydreaming bullshit and focus on what's really important and actually achievable. If the deadline wasn't there you would most probably never actually deliver anything. "Art is never finished, only abandoned." So look at the deadline as the point in time where you will be liberated from your current artistic burden. And if you don't buy into that philosophy at all, you can still release a final version of your entry after the party.
 
-By the end of day 10 you should realize the importance of deadlines, how to not fear them, but respect them for the panic and closure they bring to the creative process.
+By the end of the 10th day you should realize the importance of deadlines, how to not fear them, but respect them for the panic and closure they can bring to the demo making creative process.
 
 ## Day 11 - Get Help
 
 You can do great demos alone. Lots of demosceners make demos alone. That doesn't mean you have to.
 
-Most demosceners prefer to work in groups. There are advantages and disadvantages to both approaches. They entirely depend on your workflow and your ability to find people who share your vision.
+Most demosceners prefer to work in groups. There are advantages and disadvantages to both approaches. Which one you follow entirely depends on your workflow and your ability to find people who share your vision.
 
-Regardless if you work alone or in a demogroup, you may sometimes find yourself in a bit of a pickle going through your demo making adventure. If you ever do, you should be aware that other demosceners tend to be helpful in all sorts of ways:
+Regardless if you work alone or in a demogroup, you may sometimes find yourself in a bit of a pickle halfway through your demo making adventure. If you ever do, you should be aware that you're not alone and that other demosceners tend to be helpful in all sorts of ways:
 
 1. They can lend you their insight into your problem.
 
@@ -236,11 +234,11 @@ Regardless if you work alone or in a demogroup, you may sometimes find yourself 
 
 5. They can lend you computers to finish or submit your entry at the partyplace.
 
-6. They can bring you food, beer or coffee when you're working on an entry.
+6. They can bring you food, beer or coffee while you're busy working on an entry.
 
 7. They might even teach you how to use tools and tricks that make your life easier.
 
-My point is, you're not alone doing demos, there are plenty of others out there that know what you're trying to do and will gladly help where they can. Most of them have already tackled that specific problem you're trying to solve. So why not ask them for some insight? It might save you many frustrating hours.
+My point is, there are plenty of others that know what you're trying to do and will gladly help you where they can. Most of them have already tackled that specific problem you're trying to solve. So why not ask them for some insight? It might save you many frustrating hours.
 
 If you're shy to approach people, there are also recorded conference talks of demosceners covering different topics of interest to the demoscene which you can find on the internet and learn from.
 
@@ -250,35 +248,45 @@ By the end of the 11th day you should know the importance of getting help when y
 
 When the deadline is upon you and you want to finish the project it's time to enter crunch time.
 
-Crunch time means you and your team sitting down and working on all the things that need to get done, not leaving until they get done. No interruptions except for food, bathroom and sleep.
+Crunch time means you and your team sitting down together to work on all the things that need to get done, and not leaving until they are all done. No interruptions except for food, bathroom and sleep.
 
-Productivity under crunch time is often higher, but it will soon start to deteriorate as the period extends itself. This is normal, you and your team are only human, you will get tired and start to lose focus and patience. Long crunch times can be counter productive. They can also leave you quite burned out. So learn to plan ahead and avoid unnecessary crunch time periods.
+Productivity under crunch time is often higher then average, but it will soon start to deteriorate as the crunch time period extends itself. This is normal, you and your team are only human, you will get tired and start to lose focus and patience. Long crunch times can be counter productive. They can also leave you quite burned out. So learn to plan ahead and avoid unnecessary crunch time periods.
 
 Typically crunch time should only be enforced to wrap things up: Clean the last bugs, implement the last effect, integrate the final artwork, tweak some colors and syncs.
 
-Howhever some folks enjoy procastinating a lot, discussing what the project could be instead of actually trying things out or following a plan to accomplish what is already defined. Planning things properly is very important but at some point you need to stop planning and just do things. To push the planning forward some people enjoy doing their projects in semi-regular sprints. A sprint is a short period of time where you enter crunch mode totally focused on that project alone. They are great ways to kickstart a project, tackle a specific issue or just add some more content to your project.
+Howhever, some folks enjoy procastinating a lot, discussing what the project could be instead of actually trying things out or following a plan to accomplish what is already defined, going back to revisit things that were already closed and done with, etc. Planning things properly is very important, but at some point you need to stop planning and just close things.
 
-When you're planning your project and defining some sprints or crunch time, be aware that your end result is never quite what you intended to achieve, always reserve some buffer time. Buffer time  should typically be an extra 20% or 50% of what you believe will take you to accomplish the task.
+To push the project forward some people enjoy doing their projects in semi-regular sprints. A sprint is a short period of time where you enter crunch mode totally focused on that project alone. They are great ways to kickstart a project, tackle a specific project hurdle or just add some more content to a project that's been idling.
 
-Buffer time will always be consumed. Projects always take longer then initially expected. This is completely normal and the only thing you should do about it is to expect it. If it's not obvious enough let me explain why: you can't ever estimate the unknown and any creative process involves dealing with the unknown. A project that falls exactly under the estimated timeframe is a project where you were surely not being creative enough.
+When you're planning your project and defining some sprints or crunch time, be aware that your end result is never quite what you intended to achieve, always reserve some buffer time to redo everything, clear bugs or scrap everything and start anew. Buffer time should typically be an extra 20% or 50% of what you realistically estimated for the task. Some people are more horrible then others at predicting or controlling how much time they spend on each specific task and require bigger buffer times or a simple reality check to help them close the task and shift their focus to the next one on the plan.
+
+Creative projects always take longer then initially expected. This is completely normal and the only thing you should do about it is to expect it. If it's not obvious enough let me lay it out explicitly, it's due to two very simple reasons:
+
+1. any creative process involves dealing with unknowns
+
+2. you can't estimate unknowns
+
+A project that falls exactly onto it's predicted timeframe is a project where you were surely not being creative enough. Fucking boring if you ask me, but go for whatever rocks your boat.
+
+A good rule of thumb to deliver on time is to always keep your codebase fully playable, if you are missing assets (sound or graphics) use stand-ins, don't spend too much time on them (they will be replaced anyways), do them as horrible and quickly as possible, just make sure they are in the expected format. Then send that preview to the person responsible for the assets and ask them to replace them when ready. And focus your time tweaking something else until you hear back from them for a new version.
 
 By the end of day 12 you should know the dangers and importance of crunch times to deliver a demoscene entry on time. Use them wisely!
 
 ## Day 13 - The Real Party is Outside
 
-Demoparties are were demosceners gather to meet each other, finish their productions and share them with each other on the big screen.
+Demoparties are where demosceners gather to meet each other, finish their productions and share them on the big screen.
 
-At some point some folks realized there was more to life then sitting inside a smelly party place finishing their entries. They realized there was a whole world out there to be explored. I'm ofcourse talking about the outside of the partyplace, where the demosceners gather to meet each other, talk about how late they are finishing their productions and idle waiting to share them with each other on the big screen.
+At some point some folks realized there was more to life then sitting inside a smelly party place finishing entries. They realized there was a whole world out there to be explored. I'm ofcourse talking about the outside of the partyplace, where the demosceners gather to meet each other, talk about how late they are running to finish their productions on time or just idle around, waiting for the compos to start on the big screen.
 
-As it happens, inside of demoparty halls things tend to be a bit more strict in terms of what regulations apply, on what you can and cannot do. You usually can't eat, drink or smoke. Sometimes the sound is too loud. In other occasions they won't let you make any sound of your own. And so, after a few hours of working on your entry, you tend to enjoy walking outside to get some air. This is the perfect opportunity to socialize with fellow demosceners who are doing the same thing just outside the partyplace. And this is why demosceners are known to mention that the real party is outside.
+As it happens, inside of demoparty halls regulations tend to be more strict. You usually can't eat, drink or smoke. Sometimes the sound is too loud. In other occasions they won't let you make any sound of your own. And so, after a few hours of working on your entry, you tend to enjoy walking outside to get some air. This is the perfect opportunity to socialize with fellow demosceners who are doing the same, just outside the partyplace. And this is why demosceners are known to mention that the real party is outside.
 
-During particularly cold winters this task can be challenging. Under these occasions demosceners are known to build campfires to help warm each other up.
+During particularly cold winters this task can be challenging. For these occasions demosceners have repurposed the ancient sacred technology of gathering wood and setting it on fire, these are known as campfires and they become social gathering points where sceners crowd to bond and warm each other you up. They are free to join.
 
-As a side note: sleeping areas are also not the most indicated place to eat, drink, smoke or socialize. Demosceners (like any other creature) tend to dislike being awakened when they are tired and will often complain that you should take your party outside.
+Demoparties typically have certain areas reserved for sleeping. These are called sleeping areas. These are not the most indicated place to eat, drink, smoke or socialize. Demosceners (like any other creature) tend to dislike being awakened when they are tired and will often complain that you the real party is outside and that you should go there. You should strongly follow their advice.
 
-Socializing is important. Sceners are usually quite social. Don't be afraid of talking to random demosceners. Don't be afraid of introducing yourself to people whose work you admire. By experience i can tell you they will most likely appreciate your interest and share with you their thoughts on your work and your methods. Maybe even get some insight on how to improve the entry you are currently working on.
+Socializing is important. Sceners are usually quite social. Don't be afraid of talking to random demosceners. Don't be afraid of introducing yourself to people whose work you admire. By experience i can tell you they will most likely appreciate your interest and share with you their thoughts on your work and your methods. They might even give you some insight and motivation on how to improve the entry you are currently working on.
 
-Last but not least remember not to be an ass. No one likes annoying people, be them demosceners or not. If you can't communicate without being rude keep your opinions to yourself. If you can't hold your alcohol, don't drink yourself silly.
+Last but not least remember not to be an ass. No one likes annoying people, be them demosceners or not. If you can't communicate without being rude keep your opinions to yourself. If you can't hold your alcohol, don't drink yourself silly. This should be common knowledge but it's always useful to keep in mind.
 
 By the end of the 13th day you should know where the real party is located and not be afraid to go there.
 
@@ -286,17 +294,19 @@ By the end of the 13th day you should know where the real party is located and n
 
 After the demoparty comes the official release of your entry.
 
-Most entries nowadays are automatically released by the party voting system. This means they will be uploaded to the internet where people will be able to download, watch, listen and inevitably comment.
+Most entries nowadays are automatically released by the party voting system. This means they will be uploaded to the internet, where dozens of people will be able to download, watch, listen and inevitably leave their public comments on your entry.
 
-You should be aware by now that most people say things online they would never say in person. You can't see them, you often don't know them, it's hard to understand what they mean exactly, and it's easy to take negative feedback the wrong way.
+You should be aware by now that most people say things online they would never say in person. Keep in mind you cannot see them, you often don't even know them, it's quite hard to understand what they mean exactly, and quite easy to take negative feedback the wrong way. Don't fall for that trap.
 
 Pouet.net is a website where most demoscene entries are listed and commented on by the international demoscene community. Like any online forum it's quite easy to get misunderstood and start a flamewar over the silliest of things. So this is the most important thing you should know about pouet: Pouet is not the demoscene. And also, the demoscene is not pouet.
 
-Pouet is a place to write your opinions on each others entries, it can also be a great source of community feedback, but never make the mistake of reading the comments on pouet and taking them too seriously. Pouet is pigs and trumpets.
+Pouet is a place to write your opinions on each others entries, it can also be a great source of community feedback. Pouet is unexplained memes, pigs, buckets, pictures of ponies and trumpets. Don't make the mistake of reading the comments on pouet and taking them too seriously.
 
-Demoscene on the other hand is a supportive community, a culture, some people even call it a family or a way of life.
+Demoscene on the other hand is what you can make of it, it's a supportive community, a culture, some people even call it a family or a way of life.
 
-By the end of the 14th day you should know all about the demoscene, how to make your first entry, the importance of attending demoparties and getting to know the community. Above all you should know that demoscene is about having fun doing digital art and creative things in general.
+By the end of the 14th day you should know all about the demoscene, how to make your first entry, the importance of attending demoparties, getting releases finished in time and getting to know the community.
+
+Above all the demoscene is about having fun doing digital art. So make some demos and have fun!
 
 ## Acknowledgements
 
