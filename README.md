@@ -10,7 +10,7 @@ We call demosceners the folks with too much free time that abuse their computer 
 
 Demosceners often use nicknames to identify themselves, they also tend to hang out in so called demogroups. Some demosceners are active members of multiple demogroups, with or without using the same nickname.
 
-Let's get one thing clear: demoscene has no commercial purpose. The only thing you'll get out of the demoscene, and this only comes after investing a significant ammount of your free time into it, is a few useful softskills and a large community of computer nerd friends.
+Let's get one thing clear: demoscene has no commercial purpose. The only thing you'll get out of the demoscene, and this only comes after investing a significant amount of your free time into it, is a few useful softskills and a large community of computer nerd friends.
 
 Demoscene releases are meant to show the limits of the machines, the technical skills and artistic sensibility of the makers. There are no rules to what kind of release you can make on the demoscene. Some demos are made as technical benchmarks, others as conceptual art, most are done just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
 
@@ -39,7 +39,7 @@ On the second day of the rest of your life you should figure out what you want t
 
 A demo is usually a group effort. Sceners are typically divided into 3 roles:
 
-1. Graphician - responsible for the artwork, 3d modelling and animations
+1. Graphician - responsible for the artwork, 3d modeling and animations
 2. Musician - composer and producer of the audio soundtrack
 3. Coder - programmer of "effects" and tools that will enable you to get your demo done before the deadline
 
@@ -51,7 +51,7 @@ There is an additional role in the demoscene, which is the role of the organizer
 
 Remember that a demoscener can easily wear multiple hats of these different roles.
 
-You should never be afraid to try out or experiment in an area you don't yet dominate, even if you don't stick with it long you will undoubtedly learn invaluable information on how it works, and this knowledge can help you in other areas in the future. So embrace your curiosity, don't be afraid to fail. People learn with mistakes and everybody has to start somewhere, so just follow your heart, ignore any prior prejudices, and just explore what you want to explore, be it drawing and modelling, animating, composing, programming or syncing your demo. Just give it a try.
+You should never be afraid to try out or experiment in an area you don't yet dominate, even if you don't stick with it long you will undoubtedly learn invaluable information on how it works, and this knowledge can help you in other areas in the future. So embrace your curiosity, don't be afraid to fail. People learn with mistakes and everybody has to start somewhere, so just follow your heart, ignore any prior prejudices, and just explore what you want to explore, be it drawing and modeling, animating, composing, programming or syncing your demo. Just give it a try.
 
 This does not imply it will be easy to master any of these roles. All of them are life-long commitments that take years of practice and exploration to achieve something you could consider great, but we all have to start somewhere, so let's get started!
 
@@ -79,7 +79,7 @@ There are many tools to produce audio freely available for download. Ranging fro
 
 Modern PC demos typically play a pre-recorded final mix of the audio (an mp3 of the track), but the roots of the demoscene involve sample generation and the so called tracker formats. Most demos for oldschool platforms still feature live mixing playback of a tracked track.
 
-The [tracker format](https://en.wikipedia.org/wiki/Module_file) can be divided into 3 main concepts: samples & instruments, patterns and sequencing order. You can typically load or configure the parameters of samples that can be played. Certain trackers allow you to configure samples into instruments by defining behaviors on how the sample will be played when triggered under different pitches. The samples or instruments are then sequenced in patterns that will be played back under the stipulated tempo. And you can set the order of how the patterns will be played under the song sequence. These simple rules are the basis for most trackers that exist out there, each of them with their unique, querky and often highly counter-intuitive menus that you'll grow to love.
+The [tracker format](https://en.wikipedia.org/wiki/Module_file) can be divided into 3 main concepts: samples & instruments, patterns and sequencing order. You can typically load or configure the parameters of samples that can be played. Certain trackers allow you to configure samples into instruments by defining behaviors on how the sample will be played when triggered under different pitches. The samples or instruments are then sequenced in patterns that will be played back under the stipulated tempo. And you can set the order of how the patterns will be played under the song sequence. These simple rules are the basis for most trackers that exist out there, each of them with their unique, quirky and often highly counter-intuitive menus that you'll grow to love.
 
 Certain platforms have sample and instrument restrictions, such as only playing sinus, saw or square wave forms. Or only allowing certain types of filters. The limitations of each soundchip platform gives it a signature sound, the exploration of these signature 8bit and 16 bit sounds is what popularized the chiptune music genre.
 
@@ -103,7 +103,7 @@ There are many ways to program a demo, there is no such thing as the single best
 
 Some programmers get a bit caught up in the right way to code, reading books, following best practices, debating them, getting caught up in trendy methologies or endless refactoring cycles and never actually releasing a demo. If that's you i strongly suggest that you take a look at [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and release your demo.
 
-Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to release a demo. Some coders prefer working on tools and engines and having other demosceners use them. They enjoy the engineering side more than the creative application. While others hate developing tools and engines and just enjoy putting a demo together. Ofcourse it's useful to dabble on the different sides of the field, but at the end of the day you should focus on what are more interested in or comfortable with.
+Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to release a demo. Some coders prefer working on tools and engines and having other demosceners use them. They enjoy the engineering side more than the creative application. While others hate developing tools and engines and just enjoy putting a demo together. Of course it's useful to dabble on the different sides of the field, but at the end of the day you should focus on what are more interested in or comfortable with.
 
 If you're focused on doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k development, you can find resources at [in4k](https://in4k.github.io/).
 
@@ -202,7 +202,7 @@ Nothing like a good old deadline to force you to finish your ideas into a finali
 
 Demoscene has a natural deadline called a demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment, it usually comes just a few seconds after buying the party entrance tickets.
 
-Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except everyone at the party will most likely ask you if you're working on any entry for the compos, and there is only such a limited ammount of plausible excuses you can give to not be working on an entry while you still have time. 
+Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except everyone at the party will most likely ask you if you're working on any entry for the compos, and there is only such a limited amount of plausible excuses you can give to not be working on an entry while you still have time. 
 
 Even half an hour is plenty of time to do _something_. It might not be the mona lisa of the demoscene, but you it's never just a matter of time. There are even fastcompos, prepared specifically to force you to do something in small time constraints. If you don't have a topic to work on, people will throw a topic at you. There are very few socially acceptable excuses in the demoscene for not making an entry for the compos. No pressure, just do something!
 
@@ -286,11 +286,11 @@ By the end of the 13th day you should know where the real party is located and n
 
 After the demoparty comes the official release of your entry.
 
-Most entries nowdays are automatically released by the party voting system. This means they will be uploaded to the internet where people will be able to download, watch, listen and inevitably comment.
+Most entries nowadays are automatically released by the party voting system. This means they will be uploaded to the internet where people will be able to download, watch, listen and inevitably comment.
 
 You should be aware by now that most people say things online they would never say in person. You can't see them, you often don't know them, it's hard to understand what they mean exactly, and it's easy to take negative feedback the wrong way.
 
-Pouet.net is a website where most demoscene entries are listed and commented on by the international demoscene community. Like any online forum it's quite easy to get missunderstood and start a flamewar over the silliest of things. So this is the most important thing you should know about pouet: Pouet is not the demoscene. And also, the demoscene is not pouet.
+Pouet.net is a website where most demoscene entries are listed and commented on by the international demoscene community. Like any online forum it's quite easy to get misunderstood and start a flamewar over the silliest of things. So this is the most important thing you should know about pouet: Pouet is not the demoscene. And also, the demoscene is not pouet.
 
 Pouet is a place to write your opinions on each others entries, it can also be a great source of community feedback, but never make the mistake of reading the comments on pouet and taking them too seriously. Pouet is pigs and trumpets.
 
