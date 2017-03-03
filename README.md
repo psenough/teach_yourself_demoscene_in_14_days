@@ -97,7 +97,7 @@ Learning how to program is relatively easy, there are tons of books and free cou
 
 There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
 
-To avoid initial frustration you should probably start with something that lets you throw something on the screen without much effort, programming environments such as [Processing](https://processing.org/), or [Unity3D](https://unity3d.com/) are great ways to get into programming graphics. Whatever language, development platform or APIs that you choose to pursue, it surely includes some sort of graphic output canvas where you can draw upon with pixels, triangles or quads.
+To avoid initial frustration you should probably start with something that lets you throw something on the screen without much effort, programming environments such as [Processing](https://processing.org/), or [Unity3D](https://unity3d.com/) are great ways to get into programming graphics. Whatever language, development platform or APIs that you choose to pursue, it surely includes some sort of graphic output canvas where you can draw upon with pixels, triangles or quads. Some folks have even prepared a [demoscene starter kit](https://github.com/anttihirvonen/demoscene-starter-kits).
 
 There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
 
