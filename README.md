@@ -33,6 +33,8 @@ Given all this knowledge, your mission, should you choose to accept it, is to, i
 
 On this first day of the rest of your life you should probably still google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice [Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel](https://www.youtube.com/user/Annikras), which might be useful, although demos are always best experienced running live on their target platform.
 
+There is this great documentary about the demoscene called [Moleman 2](https://www.youtube.com/watch?v=iRkZcTg1JWU) and if you're a scholar you can find a list of scene related scientific writings [at Demoscene Research site](http://www.kameli.net/demoresearch2/).
+
 ## Day 2 - Find your Vocation
 
 On the second day of the rest of your life you should figure out what you want to do on the demoscene.
