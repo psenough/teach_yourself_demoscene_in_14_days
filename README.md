@@ -6,11 +6,11 @@ A guidebook for newcomers to the demoscene, spawned from [a certain pouet.net fo
 
 The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture. The term demoscene comes from the word demo, short for demonstration. In the context of the demoscene the word demo means a realtime audiovisual application which is demonstrating the capabilities of the machine it runs on.
 
-We call demosceners the folks with too much free time that abuse their computer skills to create releases under the demoscene.
+Demosceners ("sceners") are what we call the folks with too much free time that abuse their computer skills to create releases under the demoscene.
 
-Demosceners often use nicknames to identify themselves, they also tend to hang out in so called demogroups. Some demosceners are active members of multiple demogroups, with or without using the same nickname.
+Demosceners often use nicknames ("nicks" or "handles") to identify themselves.  They also tend to hang out in so-called demogroups. Some demosceners are active members of multiple demogroups, with or without using the same nickname.
 
-Let's get one thing clear: demoscene has no commercial purpose. The only thing you'll get out of the demoscene, and this only comes after investing a significant amount of your free time into it, is a few useful softskills and a large community of computer nerd friends.
+Let's get one thing clear: the demoscene has no commercial purpose. The only thing you'll get out of the demoscene, and this only comes after investing a significant amount of your free time into it, is a few useful softskills and a large community of computer nerd friends.
 
 Demoscene releases are meant to show the limits of the machines, the technical skills and artistic sensibility of the makers. There are no rules to what kind of release you can make on the demoscene. Some demos are made as technical benchmarks, others as conceptual art, most are done just for fun. It is entirely up to you to explore what you like doing and share it with other demosceners.
 
@@ -31,9 +31,23 @@ Demoparties come in many flavors but they are usually 2 to 3 day events focused 
 
 Given all this knowledge, your mission, should you choose to accept it, is to, in 14 days, make your first demoscene entry, meet some fellow demosceners, participate in a compo at a demoparty and eventually "make a megademo-shock to Japanese brain" as some sceners say.
 
-On this first day of the rest of your life you should probably still google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice [Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel](https://www.youtube.com/user/Annikras), which might be useful, although demos are always best experienced running live on their target platform.
+On this first day of the rest of your life you should probably still google a bit more about the demoscene and watch some demos! If you have trouble running most demos on your platform of choice, [Annikras spent a lot of time capturing demos into high quality videos and uploading them to his youtube channel](https://www.youtube.com/user/Annikras), which might be useful, although demos are always best experienced running live on their target platform.
 
 There is this great documentary about the demoscene called [Moleman 2](https://www.youtube.com/watch?v=iRkZcTg1JWU) and if you're a scholar you can find a list of scene related scientific writings [at Demoscene Research site](http://www.kameli.net/demoresearch2/).
+
+### Signing up and signing in
+
+Other than your nickname, you don't have to give anyone any information to join the scene or release a production.  However, sometimes it's nice to be able to talk to folks who have been doing this for a while :) .  The easiest way is to register for an account (a "SceneID") at [scene.org](https://id.scene.org/register/).  That will give you access to a number of scene websites, including:
+
+ - [Pouët.net](https://www.pouet.net): The largest site for scene-wide discussion of demos and other topics.  The "BBS" is the discussion forum.  A good idea is to lurk for a while and learn the etiquette before you post!
+ - [Demozoo](https://demozoo.org): An archive of information about scene demos, graphics, and music.
+ - [Wanted!](http://wanted.scene.org): A site for asking for people to work with you on your releases --- and for offering to work with others on theirs!
+
+These sites have a big "SceneID" button --- click that to login.  It usually looks like:
+
+![SceneID login button image](http://howto.planet-d.net/misc/sceneid-login-button.png)
+
+Bear in mind that not all demoscene content is necessarily safe for work or suitable for kids.  That said, there is a tremendous amount of information in these sites, and a lot of very experienced people hang out in the forums.
 
 ## Day 2 - Find your Vocation
 
@@ -125,9 +139,9 @@ The best way to know what tool might interest you is to either check them all ou
 
 As you progress you will notice several limitations and quirks with the tools you use, and will most likely feel the need to either develop your own set of tools or contribute to active existing projects.
 
-Similarly important to knowing the tools of the trade available to you are what resources are out there, ranging from free tracks, samples, free sprites, free animated models, usable tools, editors and engines, tutorials, irc channels where to get motivation and support, etc. It's usually a matter of doing a few google searches or asking fellow sceners about their demomaking habits.
+Similarly important to knowing the tools of the trade available to you are what resources are out there, including free tracks, samples, sprites, or animated models; usable tools, editors and engines; [tutorials](http://howto.planet-d.net/wiki/index.php?n=Main.Sources); and ways to get motivation or support, including [Reddit](https://www.reddit.com/r/Demoscene) or [irc channels](https://www.pouet.net/topic.php?which=8192&page=1). It's usually a matter of doing a few google searches or asking fellow sceners about their demomaking habits.
 
-Demosceners typically have very strong opinions on what is cool and what is lame. The demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's quite easy to get negative commentary. You should realize that an opinion is just an opinion, you don't have to please everyone. The demoscene is a hobby, so you should above all, aim to please yourself first. If you put effort and dedication into your entry I’m sure people will acknowledge your effort regardless of if they liked it or disagree with some of the "shortcuts" you took in their eyes to get the demo done.
+Demosceners typically have very strong and very individual opinions on what is cool and what is lame. The demoscene has no written rules. Different people have different concepts of what "their" demoscene is about. So it's quite easy to get negative commentary. You should realize that an opinion is just an opinion, you don't have to please everyone. The demoscene is a hobby, so you should above all, aim to please yourself first. If you put effort and dedication into your entry I’m sure people will acknowledge your effort regardless of if they liked it or disagree with some of the "shortcuts" you took in their eyes to get the demo done.
 
 My recommendation is to always be honest with your sources, entries typically have a readme.txt file in the package, this is a text document where you can describe your work process, what tools you used and why. If you include proper documented information the people who read it will no longer feel that cheated if your demo used a ripped soundtrack, repurposed some shaders or used a commercial engine. They will evaluate it accordingly.
 
@@ -204,7 +218,7 @@ Nothing like a good old deadline to force you to shape your ideas into a finaliz
 
 Demoscene has a natural deadline called the next demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment when planning to attend a demoparty, it usually comes right after buying the party entrance or flight travel tickets.
 
-Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except that everyone at the party will most likely be asking you if you're working on an entry for the compos, and there is only such a limited amount of plausible excuses you can give to justify not working on an entry while you still have some time left. 
+Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except that everyone at the party will most likely be asking you if you're working on an entry for the compos, and there is only such a limited amount of plausible excuses you can give to justify not working on an entry while you still have some time left.
 
 Even half an hour is plenty of time to do _something_ for a compo. It might not be the mona lisa of the demoscene, but it's an entry. To prepare you for these last minute attempts to deliver something in a rush there are also fastcompos. Events prepared specifically to force you to do something within small time constraints. If you don't have a topic to work on, people will throw a topic at you.
 
