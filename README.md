@@ -67,13 +67,11 @@ There is an additional role in the demoscene, which is the role of the organizer
 
 Remember that a demoscener can easily wear multiple hats of these different roles.
 
-You should never be afraid to try out or experiment in an area you don't yet dominate, even if you don't stick with it long you will undoubtedly learn invaluable information on how it works, and this knowledge can help you in other areas in the future. So embrace your curiosity, don't be afraid to fail. People learn with mistakes and everybody has to start somewhere, so just follow your heart, ignore any prior prejudices, and just explore what you want to explore, be it drawing and modeling, animating, composing, programming or syncing your demo. Just give it a try.
+Don't be scared to try out different roles, even if you don't stick with it you will undoubtedly learn invaluable information on how it works. This knowledge will help you in the future.
 
 This does not imply it will be easy to master any of these roles. All of them are life-long commitments that take years of practice and exploration to achieve something you could consider great, but we all have to start somewhere, so let's get started!
 
 By the end of day 2 you should have an idea of what you want to more seriously explore. If you have doubts what each role actually entails, i strongly recommend you to google for some beginners tutorials on the different areas.
-
-We will cover the basics of each role during the next days but the more prior information you have on each one, the better prepared you will be to tackle the challenges ahead!
 
 ## Day 3 - Basics of Graphics
 
@@ -115,15 +113,17 @@ There are many programming languages, platforms and styles of programming with t
 
 To avoid initial frustration you should probably start with something that lets you throw something on the screen without much effort, programming environments such as [Processing](https://processing.org/), or [Unity3D](https://unity3d.com/) are great ways to get into programming graphics. Whatever language, development platform or APIs that you choose to pursue, it surely includes some sort of graphic output canvas where you can draw upon with pixels, triangles or quads. Some folks have even prepared a [demoscene starter kit](https://github.com/anttihirvonen/demoscene-starter-kits).
 
-There are many ways to program a demo, there is no such thing as the single best way. You should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
+There are many ways to program a demo. There is no such thing as the single best way. In other words, you should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
 
-Some programmers get a bit caught up in the right way to code, reading books, following best practices, debating them, getting caught up in trendy methologies or endless refactoring cycles and never actually releasing a demo. If that's you i strongly suggest that you take a look at [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and release your demo.
+Some programmers get a bit caught up in the right way to code, reading books, following best practices, debating them, learning new trendy methologies or endlessly refactoring their code and never actually releasing a demo. If that's you i strongly suggest that you take a look at [http://programming-motherfucker.com/](http://programming-motherfucker.com/) and just release your first demo.
 
-Another point worth addressing is that you don't have to prepare the entire development chaintool and engine yourself to release a demo. Some coders prefer working on tools and engines and having other demosceners use them. They enjoy the engineering side more than the creative application. While others hate developing tools and engines and just enjoy putting a demo together. Of course it's useful to dabble on the different sides of the field, but at the end of the day you should focus on what are more interested in or comfortable with.
+Another point worth addressing is that you don't have to prepare the entire development chaintool / engine / framework yourself to do a demo. Some folks prefer to work on tools / engines / frameworks and then having other demosceners use them to make demos. While others hate developing tools and engines and just enjoy putting a demo together. Of course it's useful to dabble on both sides of the spectrum, but at the end of the day you should focus on what you are most interested or comfortable with.
 
-If you're focused on doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k development, you can find resources at [in4k](https://in4k.github.io/).
+There are some great online resources to learn programming graphics. If you're interested in learning [OpenGL](https://www.opengl.org/) you can check the good old [NeHe Tutorials](http://nehe.gamedev.net/) or the more recent [Learn OpenGL](https://learnopengl.com/) tutorial website.
 
-Most demo effects in the recent years (2010-2016) are heavily based on pixel and fragment shaders, either coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/) and a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
+Most demo effects in the recent years (2010-2016) are heavily based on pixel and fragment shaders, either coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/). There is also a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
+
+If interested in doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k / 8k development, you can find useful resources at [in4k](https://in4k.github.io/).
 
 Try to program a new effect each day and you'll eventually start to get the hang of it and figure out which areas you should read up on to improve your skillset.
 
@@ -151,27 +151,27 @@ By the end of day 6 you should have a good idea of what tools and resources are 
 
 ## Day 7 - Experiment
 
-Whether you're a musician, graphician or coder: there is one golden rule in the demoscene, don't be afraid to experiment.
+Whether you're a musician, graphician or coder there is one golden rule in the demoscene: Don't be afraid to experiment. I promise you on first hand experience that as long as you keep experimenting with things you will eventually release something you are truly proud of. So don't be afraid to experiment!
 
 Experiment with tools, experiment with ideas.
 
-Repurpose, remix, discuss things.
+Repurpose, remix, discuss things with others.
 
 Don't be afraid to fail, it's normal to fail, that's how you find interesting things, that's how you learn. So go forth and fail, fail hard, fail misserably, fail often, eventually you will succeed!
 
 Don't expect your first track to be great. Don't expect your first pixel graphics to look good. Don't expect your first demo to be any good. The first demos from 90% of sceners are a total load of crap!
 
-You should also be aware that it's quite common to get creative blocks or lose your motivation to do things from time to time. Just remember that demoscene is a hobby, you're free to do whatever you want at whatever pace you please. Some sceners take decades to release something, working on their masterpieces on and off!
-
-I promise you on first hand experience that as long as you keep experimenting you will eventually manage to release something you are truly proud of. So don't be afraid to experiment!
+You should also be aware that it's quite common to get creative blocks or lose your motivation to do "demoscene things" from time to time. Just remember that demoscene is a hobby, you're free to do whatever you want at whatever pace you please. Some sceners take decades to release something, working on their masterpieces on and off!
 
 At the end of day 7 you should now have a good grasp on the importance of experimenting with things.
 
 ## Day 8 - Achievable Goals
 
-As previously mentioned there are plenty of ways to make a demo. The only right way is your own way. The way that is most interesting and fun for you.
+As previously mentioned there are plenty of ways to make a demo. The only "right way" is your own way, the one that is the most interesting and fun for you.
 
-That being said, an effective rule to ensure a release is to aim for achievable goals. If you are not reasonable with your capabilities you'll soon find yourself demotivated and fail to meet the deadline. For most projects it's always better to start small and build on top of what you already have working.
+That being said, an effective rule to ensure a release will be released is to aim for achievable goals.
+
+If you are not reasonable with your goals you'll soon find yourself demotivated and failing to meet the deadline. For most projects it's better to start small and build on top of what you already have working.
 
 If you have no idea where to start here are a few pointers:
 * Some people try to replicate some effects after seeing something interesting on other demos, movies, adverts or nature. Building up a batch of different effects which can later be adapted to match a track.
@@ -181,7 +181,7 @@ If you have no idea where to start here are a few pointers:
 * Some graphicians fool around with engines and tools until something seems interesting.
 * Some musicians prepare timelines and storyboards for their sounds.
 
-All these approaches are valid. As mentioned several times already demoscene is a hobby, so don't treat it as work. Do whatever you like whenever you feel like doing it.
+All these approaches are valid. As mentioned several times already: demoscene is a hobby. So don't treat it as work, do whatever you like whenever you feel like doing it.
 
 Some pro tips to keep in mind:
 
@@ -190,25 +190,21 @@ Some pro tips to keep in mind:
 3. Work on the project at least 5 minutes each day, even if it's just tweaking some colors. This helps to keep the project in the back of your mind and eventually you will find the motivation to spend more then just 5 minutes and do a bigger push.
 4. Communicate your progress with your team mates. They might give you important feedback, and it can also motivate them to contribute.
 
-If you keep all these things in mind by the end of day 8 you should have plotted an achievable goal and laid down a work plan to achieve it.
+If you keep all these things in mind by the end of day 8 you should be able to lay down a work plan aimed at reaching achievable goals.
 
 ## Day 9 - Proof of Concept
 
-By now you should have an idea of something that you want to explore within the demoscene. It can be either trying to track a tune, draw a logo, model an object or code an effect.
+Now it's time to stop procastinating and get your hands dirty! It's been scientifically proven that anyone spending over 10,000 hours doing any task will eventually become an expert in it. It's very hard for the human mind _not_ to learn from mistakes. So don't be afraid to make them, as previously mentioned: fail often, fail hard, eventually you will succeed.
 
-So it's time to stop procastinating and get your hands dirty. Regardless of your prior experience on the field you should keep this in mind: It's been scientifically proven that anyone spending over 10,000 hours doing any task will eventually become an expert in it. It's very hard for the human mind _not_ to learn from mistakes. So don't be afraid to make them, as mentioned: fail often, fail hard, eventually you will succeed.
+It's normal to be afraid of tackling a new challenge. Some people simply lack confidence. Others prefer to brainstorm and try to figure out the best way to attack it before they start. There is nothing wrong with taking your time planning a strategy, but it's all quite useless if you don't actually sit down and try to get it done. So now is the time to try it!
 
-It's normal to sometimes be afraid of tackling a new challenge. Some people simply lack the confidence they will accomplish it. Others prefer brainstorming about the topic to help them figure out the best way to tackle it before they attack it.
+If you're feeling clueless, try using the whiteboard or the good old pen and paper, drawing helps the brain puzzle things out. It doesn't need to be anything fancy, just a sketch, notes, a list of ideas, a list of tasks, or a mapping of concepts, even some simple workflow charts can be extremely helpful to get your thoughts in check.
 
-There is nothing wrong with taking your time planning a strategy, but it's all quite useless if you don't actually sit down and try to get it done.
+Force yourself to work on the issue atleast 5 to 15 minutes every day. Even if it's just analysing what you have, or doing small changes, open your tool and try something. More often then not you'll end up spending more time working on it then you initially planned. This daily discipline is useful to keep the task fresh in your mind.
 
-If you're feeling useless, try using the whiteboard or the good old pen and paper, drawing helps the brain puzzle things out. It doesn't need to be anything fancy, just a sketch, notes, a list of ideas, a list of tasks, or a mapping of concepts, even some simple workflow charts can be extremely helpful to get your thoughts in check.
+If an empty canvas is too daunting, throw something random at it. Either play some random notes or draw some random shapes. Random generators are an easy catalyst for new ideas.
 
-Force yourself to work on the issue atleast 5 to 15 minutes every day. Even if it's just analysing what you have, or doing small changes. Open your tool and try something. More often then not you'll end up spending much longer then that fixing things, but if you don't set that discipline it's easy to set it for later. Later doesn't get done.
-
-If an empty canvas is too daunting, throw something random at it. Either play some random notes or draw some random shapes. And then just try to make sense of it. It's an easy catalyst for a new idea.
-
-Trying to do a proof of concept for your idea is the best way to get things rolling. Don't expect the final results to match your original idea. Don't get disapointed if it's not what you had envisioned. Atleast it's something. Even if you conclude it's just crap, by going through the process of creating it you will have learned things which will help you on your next attempts. You gain invaluable experience points from everything you do.
+Trying to do a proof of concept for your idea is the best way to get things rolling but don't expect the final results to match your original idea. Don't get disapointed if it's not what you had envisioned. Atleast it's something. Even if you conclude it's just crap, by going through the process of creating it you learned things which will help your next attempts. You gain invaluable experience points from everything you do.
 
 By the end of day 9 you should be aware of the importance of building a proof of concept of your idea and some insight on how to break out of the demosceners procastination curse.
 
@@ -216,19 +212,15 @@ By the end of day 9 you should be aware of the importance of building a proof of
 
 Nothing like a good old deadline to force you to shape your ideas into a finalized entry.
 
-Demoscene has a natural deadline called the next demoparty. Every demoscener has a "oh shit, now i have to make an entry" moment when planning to attend a demoparty, it usually comes right after buying the party entrance or flight travel tickets.
+Demoscene has a natural deadline called the next demoparty. Every demoscener has an "oh shit, now i have to make an entry" moment. It usually comes right after buying the flight tickets to a demoparty.
 
-Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except that everyone at the party will most likely be asking you if you're working on an entry for the compos, and there is only such a limited amount of plausible excuses you can give to justify not working on an entry while you still have some time left.
+Sure you could just go to the demoparty and socialize. Nothing wrong with that. Except that everyone at the party will most likely ask if you're working on an entry for the compos, and there is only such a limited amount of plausible excuses you can offer that justify not working on an entry while there is time left.
 
-Even half an hour is plenty of time to do _something_ for a compo. It might not be the mona lisa of the demoscene, but it's an entry. To prepare you for these last minute attempts to deliver something in a rush there are also fastcompos. Events prepared specifically to force you to do something within small time constraints. If you don't have a topic to work on, people will throw a topic at you.
+Even half an hour is plenty of time to do _something_ for a compo. It might not be the mona lisa of the demoscene, but it's an entry. For those who didn't have time to do anything before the party there are also fastcompos. These competitions are prepared specifically to force you to do something within small time constraints.
 
-If you don't do anything, you'll spend the rest of the event watching other people's entries on the big screen and wondering if you couldn't have done something that would place higher then that piece of crap you just saw or heard. So you see, if you're serious about wanting to make a demo, just buy yourself the tickets to a demoparty, and with them, automatically, will come the motivation to do something.
+If you don't have any releases for the party, you'll spend the event watching other people's entries on the big screen and wondering if you couldn't have done something that would place higher then that piece of crap you just saw or heard.
 
-The good thing about a demoparty deadline is that you see it coming months ahead, so technically speaking you can actually plan for something decent and start working on it in due time.
-
-One thing you should know about deadlines is that, unless you're a total control freak, they tend to sneak up on you. You think you have time, so you plan this great thing, and then you start realizing you aren't actually following up your work plan and your idea needs to be cut down for something simpler. My suggestion to avoid this point of failure is to always plan realistically. Build the core of your entry early on and then spend the extra time before the deadline polishing things up, maybe getting feedback from people whose opinion you respect?
-
-Don't be afraid of the deadline. Deadline is your friend. It forces you to stop with the daydreaming bullshit and focus on what's really important and actually achievable. If the deadline wasn't there you would most probably never actually deliver anything. "Art is never finished, only abandoned." So look at the deadline as the point in time where you will be liberated from your current artistic burden. And if you don't buy into that philosophy at all, you can still release a final version of your entry after the party.
+So don't be afraid of the deadline. Deadline is your friend. It forces you to stop the daydreaming bullshit and focus on what's really important and actually achievable. If the deadline wasn't there you would most probably never actually deliver anything. "Art is never finished, only abandoned." Look at the deadline as the point in time where you will be liberated from your current artistic burden. And if you don't buy into that philosophy you can always release a final version of your entry later on.
 
 By the end of the 10th day you should realize the importance of deadlines, how to not fear them, but respect them for the panic and closure they can bring to the demo making creative process.
 
@@ -262,15 +254,19 @@ By the end of the 11th day you should know the importance of getting help when y
 
 ## Day 12 - Crunch Time
 
-When the deadline is upon you and you want to finish the project it's time to enter crunch time.
+The good thing about a deadline is that you see it coming months ahead, so technically speaking you can actually plan for something decent and start on time.
 
-Crunch time means you and your team sitting down together to work on all the things that need to get done, and not leaving until they are all done. No interruptions except for food, bathroom and sleep.
+But ofcourse that the thing about deadlines is that - unless you're a total control freak - they tend to sneak up on you. You start off thinking you have lots of time, so you plan this huge awesome project, and then as time grows shorter you start realizing you aren't actually keeping up with your workplan and that your idea needs to be replaced by something simpler.
 
-Productivity under crunch time is often higher then average, but it will soon start to deteriorate as the crunch time period extends itself. This is normal, you and your team are only human, you will get tired and start to lose focus and patience. Long crunch times can be counter productive. They can also leave you quite burned out. So learn to plan ahead and avoid unnecessary crunch time periods.
+As mentioned before, my suggestion to avoid this point of failure is to always plan realistically. Build the core of your entry early on and then spend the extra time before the deadline polishing things up, testing it on different machines and maybe getting feedback from people whose opinion you respect?
+
+Some folks enjoy procastinating a lot, discussing what the project could be, over and over again, instead of actually trying things or following the plan to accomplish what was already defined. These people tend to re-open things that were already closed and done with, etc. Planning things properly is very important, but at some point you need to stop planning and just close things. This is what crunch time is for, when the deadline is looming close and you desperatly want to finish your release, you enter crunch time and close things down.
+
+Crunch time means you and your team are sitting down together to work on all the things that need to get done, and not leaving until they are all done. No interruptions except for food, bathroom and sleep.
+
+Productivity under crunch time is often higher then average, but it will soon start to deteriorate as the crunch period extends itself. This is normal, you and your team are only human, you will get tired and start to lose focus and patience. Long crunch times can be counter productive. They can also leave you quite burned out. So learn to plan ahead and avoid unnecessary crunch time periods.
 
 Typically crunch time should only be enforced to wrap things up: Clean the last bugs, implement the last effect, integrate the final artwork, tweak some colors and syncs.
-
-Howhever, some folks enjoy procastinating a lot, discussing what the project could be instead of actually trying things out or following a plan to accomplish what is already defined, going back to revisit things that were already closed and done with, etc. Planning things properly is very important, but at some point you need to stop planning and just close things.
 
 To push the project forward some people enjoy doing their projects in semi-regular sprints. A sprint is a short period of time where you enter crunch mode totally focused on that project alone. They are great ways to kickstart a project, tackle a specific project hurdle or just add some more content to a project that's been idling.
 
