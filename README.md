@@ -135,6 +135,8 @@ There are many ways to do demos. Some folks enjoy coding everything from scratch
 
 I would strongly advise you to take a quick look at the different demotools available and see which you can use, this is important to avoid reinventing the wheel and achieve good results before you grow frustrated with the learning curve. You can find a list of the most famous demotools on [pouet](http://www.pouet.net/prodlist.php?type%5B0%5D=demotool&page=1&order=thumbup), they range from texture generators, music trackers, synths or graphics tools or format converters to full featured demomaking engines, executable packers and linkers.
 
+Here is a [list](https://peisik.untergrund.net/engines/) put together by cce/peisik of all demotools (with screenshots) put together in one place for easy reference.
+
 The best way to know what tool might interest you is to either check them all out one at a time, or visit a demoparty on location and just randomly ask another fellow scener. Your tools largely depend on your demoscene role of choice and target platform so i hope you have a hint of a plan by now.
 
 As you progress you will notice several limitations and quirks with the tools you use, and will most likely feel the need to either develop your own set of tools or contribute to active existing projects.
