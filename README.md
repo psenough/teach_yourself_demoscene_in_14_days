@@ -79,7 +79,7 @@ The role of doing graphics for a demo is typically supported by a so called grap
 
 Pixel art graphics typically focus on a limited palette of colors and image size. The restrictions come from the oldschool machines that had such limitations on hardware. Small images are typically called sprites. 2D animations are created by cycling between the different frames of a sprite animation. This is the basis of 2d animation. You can [google for pixel art graphics tools](http://lmgtfy.com/?q=pixel+art+graphics+tools) and find a whole bunch of modern editors for pixel art. Real sceners will tell you about [Grafx2](http://www.pouet.net/prod.php?which=51865) or the more recent [Multipaint](http://www.pouet.net/prod.php?which=66976).
 
-If pixeling makes your stomach all queasy, don't worry, that doesn't mean your career as a graphician will be over before it even started. You can still take the role of 3D modeler (using 3DS Max, Maya, Lightwave, ZBrush, etc) and 3D animator.
+If pixeling makes your stomach all queasy, don't worry, that doesn't mean your career as a graphician will be over before it even started. You can still take the role of 3D modeler (using 3DS Max, Maya, Lightwave, ZBrush, Blender, etc) and 3D animator.
 
 The graphician is often also responsible for the overall design of the demo. Including concept, scene composition, transitions, etc.
 
