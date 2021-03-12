@@ -2,6 +2,8 @@
 
 A guidebook for newcomers to the demoscene, spawned from [a certain pouet.net forum thread](http://www.pouet.net/topic.php?which=10882&amp;page=1).
 
+Also availble as a [seminar video on youtube](https://www.youtube.com/watch?v=c8NFw2sPdgM).
+
 ## Day 1 - Demoscene?
 
 The [demoscene](https://en.wikipedia.org/wiki/Demoscene) is an underground computer art culture. The term demoscene comes from the word demo, short for demonstration. In the context of the demoscene the word demo means a realtime audiovisual application which is demonstrating the capabilities of the machine it runs on.
