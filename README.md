@@ -107,13 +107,11 @@ By the end of day 4 you should know what tools to use if you want to do sound fo
 
 ## Day 5 - Basics of Code
 
-Learning how to program is relatively easy, there are tons of books and free courses on the subject. Some people even made [online lists of these things](http://codepancake.com/learn-code-online-ultimate-list/).
+Learning how to program is relatively easy, there are tons of books and free courses on the subject. [Khan Academy](https://www.khanacademy.org/) or [Codecademy](https://www.codecademy.com/) are as good places as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms.
 
-[Khan Academy](https://www.khanacademy.org/) or [Codecademy](https://www.codecademy.com/) are as good places as any to learn how to program in general. You'll need to learn about variables, functions, classes, data structures, loops and algorithms.
+There are many programming languages, platforms and styles of programming with their respective zealots preaching "the way". Some languages favor certain styles over others but overall you should focus on the language you're most interested in learning or most comfortable with.
 
-There are many programming languages, platforms and styles of programming with their respective zealots. Some languages favor certain styles over others but overall you should focus on the language you're most interested or comfortable with.
-
-To avoid initial frustration you should probably start with something that lets you throw something on the screen without much effort, programming environments such as [Processing](https://processing.org/), or [Unity3D](https://unity3d.com/) are great ways to get into programming graphics. Whatever language, development platform or APIs that you choose to pursue, it surely includes some sort of graphic output canvas where you can draw upon with pixels, triangles or quads. Some folks have even prepared a [demoscene starter kit](https://github.com/anttihirvonen/demoscene-starter-kits).
+To avoid the initial frustration of not being able to get something showing on screen while you build your rendering engine you should probably start learning graphics programming using environments such as [Processing](https://processing.org/), [Unity3D](https://unity3d.com/) of [cables.gl](https://cables.gl/), these environments are great ways to get something going fast and you can always move away from them and do your own engine later on when you're more experienced. Some folks have prepared a [demoscene starter kit](https://github.com/anttihirvonen/demoscene-starter-kits).
 
 There are many ways to program a demo. There is no such thing as the single best way. In other words, you should do demos as it feels most natural to you. As long as the entry gets done in time to get shown on the big screen, you're doing it right.
 
@@ -123,7 +121,7 @@ Another point worth addressing is that you don't have to prepare the entire deve
 
 There are some great online resources to learn programming graphics. If you're interested in learning [OpenGL](https://www.opengl.org/) you can check the good old [NeHe Tutorials](http://nehe.gamedev.net/) or the more recent [Learn OpenGL](https://learnopengl.com/) tutorial website. A more recent bible of modern graphics programming is also the [Physically Based Rendering](http://www.pbr-book.org/) book.
 
-Most demo effects in the recent years (2010-2018) are heavily based on pixel and fragment shaders, either coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/). There is also a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/).
+Most demo effects in the recent years (2010-2018) are heavily based on pixel and fragment shaders, either coded in [HLSL](https://msdn.microsoft.com/en-us/library/windows/desktop/bb509638(v=vs.85).aspx) or [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). To learn shader coding you have this great online book called [The Book of Shaders](https://thebookofshaders.com/). There is also a well known online sandbox for open source GLSL experiments known as [Shadertoy](https://www.shadertoy.com/). If you seen shader live coding during demoscene events it's likely that it was done using [Bonzomatic](https://github.com/TheNuSan/Bonzomatic).
 
 If interested in doing tiny bytesize intros (128bytes, 256bytes, 512bytes) you can find some great resources on this subject at [sizecoding.org](http://www.sizecoding.org/wiki/Main_Page). If you're more interested in 1k / 4k / 8k development, you can find useful resources at [in4k](https://in4k.github.io/).
 
