@@ -85,7 +85,7 @@ If pixeling makes your stomach all queasy, don't worry, that doesn't mean your c
 
 The graphician is often also responsible for the overall design of the demo. Including concept, scene composition, transitions, etc.
 
-Most graphicians are proficient with Photoshop and illustrator, or their free / open source clones.
+Most graphicians are proficient with Adobe Photoshop and Illustrator, or their (possibly free) alternatives.
 
 By the end of day 3 you should know what tools to use if you want to do graphics for a demo or for a graphics compo entry. So just try a few of them out, check some tutorials, learn the application shortcuts and try to master the most interesting tool you could find.
 
