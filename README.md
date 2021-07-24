@@ -192,6 +192,8 @@ Some pro tips to keep in mind:
 3. Work on the project at least 5 minutes each day, even if it's just tweaking some colors. This helps to keep the project in the back of your mind and eventually you will find the motivation to spend more then just 5 minutes and do a bigger push.
 4. Communicate your progress with your team mates. They might give you important feedback, and it can also motivate them to contribute.
 
+Some additional protips by Gargaj: [Getting stuff done - practical solutions for pulling off large projects](https://gargaj.tumblr.com/post/618398787188211712/getting-stuff-done-practical-solutions-for)
+
 If you keep all these things in mind by the end of day 8 you should be able to lay down a work plan aimed at reaching achievable goals.
 
 ## Day 9 - Proof of Concept
