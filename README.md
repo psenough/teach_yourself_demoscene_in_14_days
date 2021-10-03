@@ -37,7 +37,7 @@ On this first day of the rest of your life you should probably still google a bi
 
 There is this great documentary about the demoscene called [Moleman 2](https://www.youtube.com/watch?v=iRkZcTg1JWU) and if you're a scholar you can find a list of scene related scientific writings [at Demoscene Research site](http://www.kameli.net/demoresearch2/).
 
-### Signing up and signing in
+### Signing Up and Signing In
 
 Other than your nickname, you don't have to give anyone any information to join the scene or release a production.  However, sometimes it's nice to be able to talk to folks who have been doing this for a while :) .  The easiest way is to register for an account (a "SceneID") at [scene.org](https://id.scene.org/register/).  That will give you access to a number of scene websites, including:
 
@@ -51,7 +51,7 @@ These sites have a big "SceneID" button --- click that to login.  It usually loo
 
 Bear in mind that not all demoscene content is necessarily safe for work or suitable for kids.  That said, there is a tremendous amount of information in these sites, and a lot of very experienced people hang out in the forums.
 
-## Day 2 - Find your Vocation
+## Day 2 - Find Your Vocation
 
 On the second day of the rest of your life you should figure out what you want to do on the demoscene.
 
@@ -212,7 +212,7 @@ Trying to do a proof of concept for your idea is the best way to get things roll
 
 By the end of day 9 you should be aware of the importance of building a proof of concept of your idea and some insight on how to break out of the demosceners procastination curse.
 
-## Day 10 - Deadlines are Important
+## Day 10 - Deadlines Are Important
 
 Nothing like a good old deadline to force you to shape your ideas into a finalized entry.
 
@@ -288,7 +288,7 @@ A good rule of thumb to deliver on time is to always keep your codebase fully pl
 
 By the end of day 12 you should know the dangers and importance of crunch times to deliver a demoscene entry on time. Use them wisely!
 
-## Day 13 - The Real Party is Outside
+## Day 13 - The Real Party Is Outside
 
 Demoparties are where demosceners gather to meet each other, finish their productions and share them on the big screen.
 
